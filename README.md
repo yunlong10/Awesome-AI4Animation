@@ -13,14 +13,14 @@ This repository includes research on AI for cel/cel-look/illust-look Animation.
 [[Project]](https://doubiiu.github.io/projects/ToonCrafter/)
 <table>
     <tr>
-        <td width="33%"><img src="assets/72109_125.mp4_00-00.png"></td>
-        <td width="33%"><img src="assets/72109_125.mp4_00-01.png"></td>
-        <td width="33%"><img src="assets/00.gif"></td>
+        <td><img src="assets/72109_125.mp4_00-00.png"><td>
+        <td><img src="assets/72109_125.mp4_00-01.png"></td>
+        <td><img src="assets/00.gif"></td>
     </tr>
     <tr>
-        <td width="33%"><img src="assets/04.gif"></td>
-        <td width="33%"><img src="assets/frame0001_05.png" width="200"></td>
-        <td width="33%"><img src="assets/05.gif"></td>
+        <td><img src="assets/04.gif"></td>
+        <td><img src="assets/frame0001_05.png"></td>
+        <td><img src="assets/05.gif"></td>
     </tr>
 </table>
 
