@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository includes research on AI for cel/cel-look/illust-look Animation.
+This repository includes research on AI for cel / cel-look / illust-look Animation.
 
 
 ## Methods
@@ -33,6 +33,10 @@ This repository includes research on AI for cel/cel-look/illust-look Animation.
 [[Code]](https://github.com/lisiyao21/AnimeInbet)
 [[Dataset]](https://drive.google.com/file/d/1SNRGajIECxNwRp6ZJ0IlY7AEl2mRm2DR/view)
 
+**Enhanced Deep Animation Video Interpolation** [arXiv 2022]\
+*Wang Shen, Cheng Ming, Wenbo Bao, Guangtao Zhai, Li Chen, Zhiyong Gao*\
+[[Paper]](https://arxiv.org/abs/2206.12657)
+
 ### Colorization
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
@@ -45,7 +49,7 @@ This repository includes research on AI for cel/cel-look/illust-look Animation.
 
 ## Datasets
 **Sakuga-42M Dataset: Scaling Up Cartoon Research** [arXiv 2024]\
-Zhenglin Pan, Yu Zhu, Yuxuan Mu*\
+*Zhenglin Pan, Yu Zhu, Yuxuan Mu*\
 [[Paper]](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view)
 [[Dataset]](https://huggingface.co/datasets/aidenpan/s_clips-v1.0)\
 <img src="assets/sakuga.png">
