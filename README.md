@@ -25,7 +25,7 @@ This repository includes research on AI for cel/cel-look/illust-look Animation.
 </table>
 
 ### Colorization
-**Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR, 2024]\
+**Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [[Paper]](https://arxiv.org/abs/2403.18342)
 [[Project]](https://ykdai.github.io/projects/InclusionMatching)
