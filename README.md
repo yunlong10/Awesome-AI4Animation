@@ -13,11 +13,18 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
     - [Inbetweening](#inbetweening)
     - [Colorization](#colorization)
     - [Editing](#editing)
+    - [After Record (AR)](#after-record-ar)
+    - [Dubbing (DB)](#dubbing-db)
   - [Datasets](#datasets)
+  - [Others](#others)
 
 ## Methods
 
 ### Storyboarding
+
+**CogCartoon: Towards Practical Story Visualization**\
+*Zhongyang Zhu, Jie Tang*\
+[[Paper]](https://arxiv.org/abs/2312.10718)
 
 ### Layout
 
@@ -134,7 +141,7 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 
 ### Editing
 
-**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** [*TBA 2024]\
+**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** [TBA 2024]\
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
 [[Paper]](https://arxiv.org/abs/2401.03499)
 
@@ -146,6 +153,10 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 **Toonsynth: Example-based Synthesis of Hand-Colored Cartoon Animations** [TOG 2018]\
 *M Dvorožnák, W Li, VG Kim, D Sýkora*\
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3197517.3201326)
+
+### After Record (AR)
+
+### Dubbing (DB)
 
 
 ## Datasets
@@ -176,3 +187,12 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 [[Project & Dataset]](https://lisiyao21.github.io/projects/AnimeRun)
 [[Code]](https://github.com/lisiyao21/AnimeRun)
 
+
+## Others
+
+**Globally Optimal Toon Tracking**\
+*Haichao Zhu, Xueting Liu, Tien-Tsin Wong, Pheng-Ann Heng*\
+[[Paper]](https://ttwong12.github.io/papers/toontrack/toontrack.pdf)
+[[Supplementary]](https://ttwong12.github.io/papers/toontrack/supp.pdf)
+[[Results Video]](https://ttwong12.github.io/papers/toontrack/result.mp4)
+[[Project Page]](https://ttwong12.github.io/papers/toontrack/toontrack.html)
