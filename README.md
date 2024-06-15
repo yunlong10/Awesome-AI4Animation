@@ -8,12 +8,19 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 - [Awesome Research on AI for Animation](#awesome-research-on-ai-for-animation)
   - [Table of Contents](#table-of-contents)
   - [Methods](#methods)
+    - [Storyboarding](#storyboarding)
+    - [Layout](#layout)
     - [Inbetweening](#inbetweening)
     - [Colorization](#colorization)
     - [Editing](#editing)
   - [Datasets](#datasets)
 
 ## Methods
+
+### Storyboarding
+
+### Layout
+
 ### Inbetweening
 
 **ToonCrafter: Generative Cartoon Interpolation** [arXiv 2024]\
