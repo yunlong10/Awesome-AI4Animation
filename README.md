@@ -12,4 +12,4 @@ This repository includes research on AI for cel/cel-look/illust-look Animation.
 ## Datasets
 |||
 |-|-|
-|**Sakuga-42M Dataset: Scaling Up Cartoon Research**<br>*Zhenglin Pan, Yu Zhu, Yuxuan Mu*<br>[[Paper]](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view)[[Dataset]](https://huggingface.co/datasets/aidenpan/s_clips-v1.0)|![image](assets/sakuga.png)|
+|**Sakuga-42M Dataset: Scaling Up Cartoon Research**<br>*Zhenglin Pan, Yu Zhu, Yuxuan Mu*<br>[[Paper]](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view)[[Dataset]](https://huggingface.co/datasets/aidenpan/s_clips-v1.0)|![image](assets/sakuga.png)![alt text](image.png)|
