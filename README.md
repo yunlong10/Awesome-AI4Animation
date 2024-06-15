@@ -4,6 +4,14 @@
 
 This repository includes research on AI for cel / cel-look / illust-look Animation.
 
+## Table of Contents
+- [Awesome Research on AI for Animation](#awesome-research-on-ai-for-animation)
+  - [Table of Contents](#table-of-contents)
+  - [Methods](#methods)
+    - [Inbetweening](#inbetweening)
+    - [Colorization](#colorization)
+    - [Editing](#editing)
+  - [Datasets](#datasets)
 
 ## Methods
 ### Inbetweening
@@ -26,12 +34,7 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
     </tr>
 </table>
 
-**Deep Geometrized Cartoon Line Inbetweening** [ICCV 2023]\
-*Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
-[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf)
-[[Demo]](https://www.youtube.com/watch?v=iUF-LsqFKpI&feature=youtu.be)
-[[Code]](https://github.com/lisiyao21/AnimeInbet)
-[[Dataset]](https://drive.google.com/file/d/1SNRGajIECxNwRp6ZJ0IlY7AEl2mRm2DR/view)
+
 
 **Joint Stroke Tracing and Correspondence for 2D Animation** [SIGGRAPH 2024]\
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
@@ -122,6 +125,21 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 [[Code]](https://github.com/Harry-Thasarathan/TCVC)
 
 
+### Editing
+
+**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** [*TBA 2024]\
+*Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
+[[Paper]](https://arxiv.org/abs/2401.03499)
+
+**Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation** [ACM 2022]\
+*Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu*\
+[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439)
+[[Code]](https://lllyasviel.github.io/GitPageToonDecompose/)
+
+**Toonsynth: Example-based Synthesis of Hand-Colored Cartoon Animations** [TOG 2018]\
+*M Dvorožnák, W Li, VG Kim, D Sýkora*\
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3197517.3201326)
+
 
 ## Datasets
 **Sakuga-42M Dataset: Scaling Up Cartoon Research** [arXiv 2024]\
@@ -137,3 +155,17 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 [[Demo]](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)
 [[Code]](https://github.com/ykdai/BasicPBC)
 [[Dataset]](https://github.com/ykdai/BasicPBC/tree/main/dataset)
+
+**Deep Geometrized Cartoon Line Inbetweening** [ICCV 2023]\
+*Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
+[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf)
+[[Demo]](https://www.youtube.com/watch?v=iUF-LsqFKpI&feature=youtu.be)
+[[Code]](https://github.com/lisiyao21/AnimeInbet)
+[[Dataset]](https://drive.google.com/file/d/1SNRGajIECxNwRp6ZJ0IlY7AEl2mRm2DR/view)
+
+**AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies** [NeurIPS 2022]\
+*Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy*\
+[[Paper]](https://arxiv.org/abs/2211.05709)
+[[Project & Dataset]](https://lisiyao21.github.io/projects/AnimeRun)
+[[Code]](https://github.com/lisiyao21/AnimeRun)
+
