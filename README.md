@@ -10,6 +10,7 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
   - [Methods](#methods)
     - [Storyboarding](#storyboarding)
     - [Layout](#layout)
+    - [Genga](#genga)
     - [Inbetweening](#inbetweening)
     - [Colorization](#colorization)
     - [Editing](#editing)
@@ -27,6 +28,9 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 [[Paper]](https://arxiv.org/abs/2312.10718)
 
 ### Layout
+
+### Genga
+
 
 ### Inbetweening
 
