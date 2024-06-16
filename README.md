@@ -196,3 +196,8 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 [[Supplementary]](https://ttwong12.github.io/papers/toontrack/supp.pdf)
 [[Results Video]](https://ttwong12.github.io/papers/toontrack/result.mp4)
 [[Project Page]](https://ttwong12.github.io/papers/toontrack/toontrack.html)
+
+**Stereoscopizing Cel Animations**\
+*Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong*\
+[[Project Page]](https://ttwong12.github.io/papers/3dcel/3dcel.html)
+[[Paper]](https://ttwong12.github.io/papers/3dcel/3dcel.pdf)
