@@ -5,38 +5,24 @@
 This repository includes research on AI for cel / cel-look / illust-look Animation.
 
 ## Table of Contents
-
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <ul>
-      <li><a href="#awesome-research-on-ai-for-animation">Awesome Research on AI for Animation</a>
-        <ul>
-          <li><a href="#table-of-contents">Table of Contents</a></li>
-          <li><a href="#process-of-animation-production">Process of Animation Production</a></li>
-          <li><a href="#methods">Methods</a>
-            <ul>
-              <li><a href="#storyboarding">Storyboarding</a></li>
-              <li><a href="#layout">Layout</a></li>
-              <li><a href="#genga">Genga</a></li>
-              <li><a href="#inbetweening">Inbetweening</a></li>
-              <li><a href="#colorization">Colorization</a></li>
-              <li><a href="#editing">Editing</a></li>
-              <li><a href="#after-record-ar">After Record (AR)</a></li>
-              <li><a href="#dubbing-db">Dubbing (DB)</a></li>
-            </ul>
-          </li>
-          <li><a href="#datasets">Datasets</a></li>
-          <li><a href="#others">Others</a></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-  <div style="flex: 1; padding-left: 20px;">
-    <img src="assets/flowchart.png" alt="Process of Animation Production" width="100%">
-  </div>
-</div>
+- [Awesome Research on AI for Animation](#awesome-research-on-ai-for-animation)
+  - [Table of Contents](#table-of-contents)
+  - [Process of Animation Production](#process-of-animation-production)
+  - [Methods](#methods)
+    - [Storyboarding](#storyboarding)
+    - [Layout](#layout)
+    - [Genga](#genga)
+    - [Inbetweening](#inbetweening)
+    - [Colorization](#colorization)
+    - [Editing](#editing)
+    - [After Record (AR)](#after-record-ar)
+    - [Dubbing (DB)](#dubbing-db)
+  - [Datasets](#datasets)
+  - [Others](#others)
 
 
+## Process of Animation Production
+<img src="assets/flowchart.png" width="60%">
 
 ## Methods
 
