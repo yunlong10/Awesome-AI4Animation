@@ -22,7 +22,7 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 
 
 ## Process of Animation Production
-![image](/assets/flowchart.png)
+<img src="assets/flowchart.png" width="50%">
 
 ## Methods
 
