@@ -7,6 +7,7 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 ## Table of Contents
 - [Awesome Research on AI for Animation](#awesome-research-on-ai-for-animation)
   - [Table of Contents](#table-of-contents)
+  - [Process of Animation Production](#process-of-animation-production)
   - [Methods](#methods)
     - [Storyboarding](#storyboarding)
     - [Layout](#layout)
@@ -18,6 +19,10 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
     - [Dubbing (DB)](#dubbing-db)
   - [Datasets](#datasets)
   - [Others](#others)
+
+
+## Process of Animation Production
+![image](/assets/flowchart.png)
 
 ## Methods
 
