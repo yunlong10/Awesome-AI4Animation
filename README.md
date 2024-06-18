@@ -2,7 +2,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository includes research on AI for cel / cel-look / illust-look Animation.
+This repository includes research, datasets, and other resources on AI for cel / cel-look / illust-look animation.
+
 
 ## Table of Contents
 - [Awesome Research on AI for Animation](#awesome-research-on-ai-for-animation)
@@ -19,6 +20,7 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
     - [Dubbing (DB)](#dubbing-db)
   - [Datasets](#datasets)
   - [Others](#others)
+  - [Related Repository](#related-repository)
 
 
 ## Process of Animation Production
@@ -214,3 +216,5 @@ This is the production process of traditional 2D animation. We will list these r
 *Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong*\
 [[Project Page]](https://ttwong12.github.io/papers/3dcel/3dcel.html)
 [[Paper]](https://ttwong12.github.io/papers/3dcel/3dcel.pdf)
+
+## Related Repository
