@@ -23,7 +23,7 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 
 ## Process of Animation Production
 This is the production process of traditional 2D animation. We will list these research topics roughly in this sequence.
-<img src="assets/flowchart.png" width="50%">
+<img src="assets/flowchart.png">
 
 ## Methods
 
