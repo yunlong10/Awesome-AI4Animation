@@ -22,11 +22,15 @@ This repository includes research on AI for cel / cel-look / illust-look Animati
 
 
 ## Process of Animation Production
-<img src="assets/flowchart.png" width="60%">
+This is the production process of traditional 2D animation. We will list these research topics roughly in this sequence.
+<img src="assets/flowchart.png" width="50%">
 
 ## Methods
 
 ### Storyboarding
+
+**Storyboarder.ai**\
+[[Website]](https://www.storyboarder.ai/)
 
 **CogCartoon: Towards Practical Story Visualization**\
 *Zhongyang Zhu, Jie Tang*\
