@@ -4,6 +4,7 @@
 
 This repository includes research, datasets, and other resources on AI for cel / cel-look / illust-look animation.
 
+<img src="assets/teaser.png">
 
 ## Table of Contents
 - [Awesome Research on AI for Animation](#awesome-research-on-ai-for-animation)
@@ -25,7 +26,7 @@ This repository includes research, datasets, and other resources on AI for cel /
 
 ## Process of Animation Production
 This is the production process of traditional 2D animation. We will list these research topics roughly in this sequence.
-<img src="assets/image.png">
+<img src="assets/pipeline.png">
 
 ## Methods
 
