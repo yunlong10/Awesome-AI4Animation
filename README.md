@@ -27,6 +27,7 @@ This repository includes research, datasets, and other resources on AI for cel /
 ## Process of Animation Production
 This is the production process of traditional 2D animation. We will list these research topics roughly in this sequence.
 <img src="assets/pipeline.png">
+<img src="assets/production.png">
 
 ## Methods
 
