@@ -204,6 +204,10 @@ This is the production process of traditional 2D animation. We will list these r
 [[Project & Dataset]](https://lisiyao21.github.io/projects/AnimeRun)
 [[Code]](https://github.com/lisiyao21/AnimeRun)
 
+**Anisora: Exploring the frontiers of animation video generation in the sora era** \
+*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Xinwen Zhang, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
+[[Paper]](https://arxiv.org/pdf/2412.10255)
+[[Code]](https://github.com/bilibili/Index-anisora)
 
 ## Others
 
