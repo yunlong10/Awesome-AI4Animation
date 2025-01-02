@@ -191,6 +191,14 @@ This is the production process of traditional 2D animation. We will list these r
 [[Code]](https://github.com/ykdai/BasicPBC)
 [[Dataset]](https://github.com/ykdai/BasicPBC/tree/main/dataset)
 
+**Deep Animation Video Interpolation in the Wild** [CVPR 2021]\
+*Li Siyao, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu*\
+[[Paper]](https://arxiv.org/pdf/2104.02495)
+[[Code]](https://github.com/lisiyao21/AnimeInterp/)
+[[Data (Google Drive)]](https://drive.google.com/file/d/1XBDuiEgdd6c0S4OXLF4QvgSn_XNPwc-g/view) 
+[[Data (OneDrive)]](https://entuedu-my.sharepoint.com/:u:/g/personal/siyao002_e_ntu_edu_sg/EY3SG0-IajxKj9HMPz__zOMBvyJdrA-SlwpyHYFkDsQtng?e=q7nGlu)
+[[Video Demo]](https://www.youtube.com/watch?v=2bbujT-ZXr8)
+
 **Deep Geometrized Cartoon Line Inbetweening** [ICCV 2023]\
 *Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
 [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf)
