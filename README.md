@@ -211,6 +211,24 @@ This is the production process of traditional 2D animation. We will list these r
 [[Dataset(Baidu Cloud(access code: kqz3))]](https://pan.baidu.com/s/1xEN0Xrv_MbuKT0ZqsipeEg)
 [[Dataset(OneDrive)]](https://1drv.ms/f/s!AohNSvvkuxZmgTHOraRzo5-X3nMp?e=bQQKkR)
 
+**SSH: A Self-Supervised Framework for Image Harmonization** [[ICCV 2021]]\
+*Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang*\
+[[Paper]](https://arxiv.org/abs/2108.06805)
+[[Code]](https://github.com/VITA-Group/SSHarmonization)
+[[Dataset]](https://drive.google.com/file/d/1jBx-DBtRX8GaqMvMv-CZutK4jn9tz-fT/view)
+
+**Intrinsic Image Harmonization** [[CVPR 2021]]\
+*Zonghui Guo, Haiyong Zheng, Yufeng Jiang, Zhaorui Gu, Bing Zheng*\
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Intrinsic_Image_Harmonization_CVPR_2021_paper.pdf)
+[[Code]](https://github.com/zhenglab/IntrinsicHarmony)
+[[Dataset(Baidu Cloud(access code: akbi))]](https://pan.baidu.com/s/1DR600XJFhm8lqfHZ6mOU_A)
+[[Dataset(Google Drive)]](https://drive.google.com/file/d/1-pa_9BNgIkuR0j1gcCxh8GI3XSWZN0e7/view?usp=sharing)
+
+**Alchemist: Parametric Control of Material Properties with Diffusion Models** [CVPR 2024]\
+*Prafull Sharma, Varun Jampani, Yuanzhen Li, Xuhui Jia, Dmitry Lagun, Fredo Durand, William T. Freeman, Mark Matthews*\
+[[Paper]](https://arxiv.org/abs/2312.02970)
+[[Project Page]](https://www.prafullsharma.net/alchemist/)
+
 ### Colorization
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
