@@ -177,11 +177,23 @@ This is the production process of traditional 2D animation. We will list these r
 
 
 ## Datasets
+### Comprehension, Generation
 **Sakuga-42M Dataset: Scaling Up Cartoon Research** [arXiv 2024]\
 *Zhenglin Pan, Yu Zhu, Yuxuan Mu*\
 [[Paper]](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view)
 [[Dataset]](https://huggingface.co/datasets/aidenpan/s_clips-v1.0)\
 <img src="assets/sakuga.png">
+
+**Anisora: Exploring the frontiers of animation video generation in the sora era** \
+*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Xinwen Zhang, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
+[[Paper]](https://arxiv.org/pdf/2412.10255)
+[[Code]](https://github.com/bilibili/Index-anisora)
+### Dubbing
+**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video** [ICASSP 2024]\
+*Kevin Cai, Chonghua Liu, David M. Chan*\
+[[Paper]](https://arxiv.org/pdf/2401.05314)
+[[Code]](https://github.com/davidmchan/Anim400K)
+[[Dataset]](https://huggingface.co/datasets/davidchan/anim400k)
 
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
@@ -212,10 +224,7 @@ This is the production process of traditional 2D animation. We will list these r
 [[Project & Dataset]](https://lisiyao21.github.io/projects/AnimeRun)
 [[Code]](https://github.com/lisiyao21/AnimeRun)
 
-**Anisora: Exploring the frontiers of animation video generation in the sora era** \
-*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Xinwen Zhang, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
-[[Paper]](https://arxiv.org/pdf/2412.10255)
-[[Code]](https://github.com/bilibili/Index-anisora)
+
 
 ## Others
 
