@@ -159,12 +159,17 @@ This is the production process of traditional 2D animation. We will list these r
 [[Code]](https://github.com/omerbt/TokenFlow)
 [[Demo]](https://huggingface.co/spaces/weizmannscience/tokenflow)
 
-**Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
-*Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
-[[Paper]](https://arxiv.org/abs/2403.18342)
-[[Project]](https://ykdai.github.io/projects/InclusionMatching)
-[[Code]](https://github.com/ykdai/BasicPBC)
-[[Dataset]](https://drive.google.com/file/d/1gIJVKyeIu4PQshZnHG6TWj5kSZjnMb2_/view)
+**PromptFix: You Prompt and We Fix the Photo** [NIPS 2024]\
+*Yongsheng Yu, Ziyun Zeng, Hang Hua, Jianlong Fu, Jiebo Luo*\
+[[Paper]](https://arxiv.org/abs/2405.16785)
+[[Project]](https://www.yongshengyu.com/PromptFix-Page/)
+[[Code]](https://github.com/yeates/PromptFix)
+
+**LVCD: Reference-based Lineart Video Colorization with Diffusion Models** [TOG 2024]\
+*Zhitong Huang, Mohan Zhang, Jing Liao*\
+[[Paper]](https://arxiv.org/abs/2409.12960)
+[[Project]](https://luckyhzt.github.io/lvcd)
+[[Code]](https://github.com/luckyhzt/LVCD)
 
 **Coloring Anime Line Art Videos with Transformation Region Enhancement Network** [Pattern Recognition 2023]\
 *Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
@@ -200,6 +205,9 @@ This is the production process of traditional 2D animation. We will list these r
 *Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi*\
 [[Paper]](https://arxiv.org/abs/1904.09527)
 [[Code]](https://github.com/Harry-Thasarathan/TCVC)
+
+**Toona**\
+[[Website]](https://toona.io/)
 
 
 ### Editing
