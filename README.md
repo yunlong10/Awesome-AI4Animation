@@ -177,6 +177,7 @@ This is the production process of traditional 2D animation. We will list these r
 
 
 ## Datasets
+
 ### Comprehension, Generation
 **Sakuga-42M Dataset: Scaling Up Cartoon Research** [arXiv 2024]\
 *Zhenglin Pan, Yu Zhu, Yuxuan Mu*\
@@ -188,6 +189,7 @@ This is the production process of traditional 2D animation. We will list these r
 *Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Xinwen Zhang, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
 [[Paper]](https://arxiv.org/pdf/2412.10255)
 [[Code]](https://github.com/bilibili/Index-anisora)
+
 ### Dubbing
 **ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video** [ICASSP 2024]\
 *Kevin Cai, Chonghua Liu, David M. Chan*\
@@ -200,6 +202,16 @@ This is the production process of traditional 2D animation. We will list these r
 [[Paper]](https://arxiv.org/abs/2111.12890)
 [[Code]](https://github.com/chenqi008/V2C)
 
+### Compositing, Photography
+**DoveNet: Deep Image Harmonization via Domain Verification** [[CVPR 2020]]\
+*Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang*\
+[[Paper]](https://arxiv.org/abs/1911.13239)
+[[Code]](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)
+[[Demo]](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/)
+[[Dataset(Baidu Cloud(access code: kqz3))]](https://pan.baidu.com/s/1xEN0Xrv_MbuKT0ZqsipeEg)
+[[Dataset(OneDrive)]](https://1drv.ms/f/s!AohNSvvkuxZmgTHOraRzo5-X3nMp?e=bQQKkR)
+
+### Colorization
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [[Paper]](https://arxiv.org/abs/2403.18342)
@@ -208,6 +220,7 @@ This is the production process of traditional 2D animation. We will list these r
 [[Code]](https://github.com/ykdai/BasicPBC)
 [[Dataset]](https://github.com/ykdai/BasicPBC/tree/main/dataset)
 
+### Inbetweening
 **Deep Animation Video Interpolation in the Wild** [CVPR 2021]\
 *Li Siyao, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu*\
 [[Paper]](https://arxiv.org/pdf/2104.02495)
