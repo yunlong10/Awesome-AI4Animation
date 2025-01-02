@@ -152,12 +152,19 @@ This is the production process of traditional 2D animation. We will list these r
 [[Code]](https://github.com/williamyang1991/FRESCO)
 [[Demo]](https://www.youtube.com/watch?v=jLnGx5H-wLw)
 
-**TokenFlow: Consistent Diffusion Features for Consistent Video Editing** [CVPR 2024]\
+**TokenFlow: Consistent Diffusion Features for Consistent Video Editing** [ICLR 2024]\
 *Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekely*\
 [[Paper]](https://arxiv.org/abs/2307.10373)
 [[Project]](https://diffusion-tokenflow.github.io/)
 [[Code]](https://github.com/omerbt/TokenFlow)
 [[Demo]](https://huggingface.co/spaces/weizmannscience/tokenflow)
+
+**Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
+*Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
+[[Paper]](https://arxiv.org/abs/2403.18342)
+[[Project]](https://ykdai.github.io/projects/InclusionMatching)
+[[Code]](https://github.com/ykdai/BasicPBC)
+[[Dataset]](https://drive.google.com/file/d/1gIJVKyeIu4PQshZnHG6TWj5kSZjnMb2_/view)
 
 **Coloring Anime Line Art Videos with Transformation Region Enhancement Network** [Pattern Recognition 2023]\
 *Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
