@@ -120,6 +120,24 @@ This is the production process of traditional 2D animation. We will list these r
 [[Dataset]](https://github.com/ykdai/BasicPBC/tree/main/dataset)\
 <img src="assets/paintbucket-charactor.png">
 
+**AniDoc: Animation Creation Made Easier** [Arxiv 2024]\
+*Yihao Meng, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu*\
+[[Paper]](https://arxiv.org/pdf/2412.14173)
+[[Project]](https://yihao-meng.github.io/AniDoc_demo/)
+[[Code]](https://github.com/yihao-meng/AniDoc)
+
+**ToonCrafter: Generative Cartoon Interpolation** [TOG 2024]\
+*Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong*\
+[[Paper]](https://arxiv.org/abs/2405.17933)
+[[Project]](https://doubiiu.github.io/projects/ToonCrafter/)
+[[Code]](https://github.com/Doubiiu/ToonCrafter)
+
+**VToonify: Controllable High-Resolution Portrait Video Style Transfer** [TOG 2024]\
+*Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy*\
+[[Paper]](https://arxiv.org/abs/2209.11224)
+[[Project]](https://www.mmlab-ntu.com/project/vtoonify/)
+[[Code]](https://github.com/williamyang1991/VToonify)
+
 **Coloring Anime Line Art Videos with Transformation Region Enhancement Network** [Pattern Recognition 2023]\
 *Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002625)
@@ -237,24 +255,6 @@ This is the production process of traditional 2D animation. We will list these r
 [[Demo]](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)
 [[Code]](https://github.com/ykdai/BasicPBC)
 [[Dataset]](https://github.com/ykdai/BasicPBC/tree/main/dataset)
-
-**AniDoc: Animation Creation Made Easier** [Arxiv 2024]\
-*Yihao Meng, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu*\
-[[Paper]](https://arxiv.org/pdf/2412.14173)
-[[Project]](https://yihao-meng.github.io/AniDoc_demo/)
-[[Code]](https://github.com/yihao-meng/AniDoc)
-
-**ToonCrafter: Generative Cartoon Interpolation** [TOG 2024]\
-*Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong*\
-[[Paper]](https://arxiv.org/abs/2405.17933)
-[[Project]](https://doubiiu.github.io/projects/ToonCrafter/)
-[[Code]](https://github.com/Doubiiu/ToonCrafter)
-
-**VToonify: Controllable High-Resolution Portrait Video Style Transfer** [TOG 2024]\
-*Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy*\
-[[Paper]](https://arxiv.org/abs/2209.11224)
-[[Project]](https://www.mmlab-ntu.com/project/vtoonify/)
-[[Code]](https://github.com/williamyang1991/VToonify)
 
 ### Inbetweening
 **Deep Animation Video Interpolation in the Wild** [CVPR 2021]\
