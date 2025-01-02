@@ -132,11 +132,32 @@ This is the production process of traditional 2D animation. We will list these r
 [[Project]](https://doubiiu.github.io/projects/ToonCrafter/)
 [[Code]](https://github.com/Doubiiu/ToonCrafter)
 
-**VToonify: Controllable High-Resolution Portrait Video Style Transfer** [TOG 2024]\
+**VToonify: Controllable High-Resolution Portrait Video Style Transfer** [TOG 2022]\
 *Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy*\
 [[Paper]](https://arxiv.org/abs/2209.11224)
 [[Project]](https://www.mmlab-ntu.com/project/vtoonify/)
 [[Code]](https://github.com/williamyang1991/VToonify)
+
+**StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces** [ICCV 2023]\
+*Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy*\
+[[Paper]](https://arxiv.org/abs/2303.06146)
+[[Project]](https://www.mmlab-ntu.com/project/styleganex/)
+[[Code]](https://github.com/williamyang1991/StyleGANEX)
+[[Demo]](https://www.youtube.com/watch?v=8oK0TXQmxg8)
+
+**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation** [CVPR 2024]\
+*Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy*\
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_FRESCO_Spatial-Temporal_Correspondence_for_Zero-Shot_Video_Translation_CVPR_2024_paper.pdf)
+[[Project]](https://www.mmlab-ntu.com/project/fresco/)
+[[Code]](https://github.com/williamyang1991/FRESCO)
+[[Demo]](https://www.youtube.com/watch?v=jLnGx5H-wLw)
+
+**TokenFlow: Consistent Diffusion Features for Consistent Video Editing** [CVPR 2024]\
+*Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekely*\
+[[Paper]](https://arxiv.org/abs/2307.10373)
+[[Project]](https://diffusion-tokenflow.github.io/)
+[[Code]](https://github.com/omerbt/TokenFlow)
+[[Demo]](https://huggingface.co/spaces/weizmannscience/tokenflow)
 
 **Coloring Anime Line Art Videos with Transformation Region Enhancement Network** [Pattern Recognition 2023]\
 *Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
