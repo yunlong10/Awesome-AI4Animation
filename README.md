@@ -195,6 +195,11 @@ This is the production process of traditional 2D animation. We will list these r
 [[Code]](https://github.com/davidmchan/Anim400K)
 [[Dataset]](https://huggingface.co/datasets/davidchan/anim400k)
 
+**V2C: Visual Voice Cloning** [[CVPR 2022]]\
+*Qi Chen, Yuanqing Li, Yuankai Qi, Jiaqiu Zhou, Mingkui Tan, Qi Wu*\
+[[Paper]](https://arxiv.org/abs/2111.12890)
+[[Code]](https://github.com/chenqi008/V2C)
+
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [[Paper]](https://arxiv.org/abs/2403.18342)
