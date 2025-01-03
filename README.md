@@ -13,13 +13,13 @@ This repository includes research, datasets, and other resources on AI for cel /
   - [Methods](#methods)
     - [Storyboarding](#storyboarding)
     - [Compositing & Photography](#compositing-photography)
+    - [Cutting (CT)](#cutting-ct)
+    - [After Record (AR) & Dubbing (DB)](#after-record-ar-dubbing-db)
     - [Layout](#layout)
     - [Genga](#genga)
     - [Inbetweening](#inbetweening)
     - [Colorization](#colorization)
     - [Editing](#editing)
-    - [After Record (AR)](#after-record-ar)
-    - [Dubbing (DB)](#dubbing-db)
   - [Datasets](#datasets)
   - [Others](#others)
   - [Related Repository](#related-repository)
@@ -103,6 +103,53 @@ This is the production process of traditional 2D animation. We will list these r
 [[Paper]](https://arxiv.org/abs/2007.08211)
 [[Project Page]](https://shengcn.github.io/SSN/)
 [[Code]](https://github.com/ShengCN/SSN_SoftShadowNet)
+
+### Cutting (CT)
+
+**Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward** [ACCV 2022]\
+*Yunlong Tang, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng*\
+[[Paper]](https://arxiv.org/abs/2209.12164v1)
+[[Code]](https://github.com/yunlong10/Ads-1k)
+
+**Reframe Anything: LLM Agent for Open World Video Reframing** \
+*Jiawang Cao, Yongliang Wu, Weiheng Chi, Wenbo Zhu, Ziyue Su, Jay Wu*\
+[[Paper]](https://arxiv.org/abs/2403.06070)
+
+**OpusClip** \
+[[Website]](https://www.opus.pro/)
+
+### After Record (AR) & Dubbing (DB)
+
+**StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing** 【ACL 2024]\
+*Gaoxiang Cong, Yuankai Qi, Liang Li, Amin Beheshti, Zhedong Zhang, Anton van den Hengel, Ming-Hsuan Yang, Chenggang Yan, Qingming Huang*\
+[[Paper]](https://arxiv.org/abs/2402.12636)
+[[[Code]](https://github.com/GalaxyCong/StyleDubber)
+
+**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video** [ICASSP 2024]\
+*Kevin Cai, Chonghua Liu, David M. Chan*\
+[[Paper]](https://arxiv.org/pdf/2401.05314)
+[[Code]](https://github.com/davidmchan/Anim400K)
+[[Dataset]](https://huggingface.co/datasets/davidchan/anim400k)
+
+**EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing** \
+*Gaoxiang Cong, Jiadong Pan, Liang Li, Yuankai Qi, Yuxin Peng, Anton van den Hengel, Jian Yang, Qingming Huang*\
+[[Paper]](https://arxiv.org/abs/2412.08988)
+[[Project Page & Demo]](https://galaxycong.github.io/EmoDub/)
+
+**From Speaker to Dubber: Movie Dubbing with Prosody and Duration Consistency Learning** [ACM MM24]\
+*Zhedong Zhang, Liang Li, Gaoxiang Cong, Haibing Yin, Yuhan Gao, Chenggang Yan, Anton van den Hengel, Yuankai Qi*\
+[[Paper]](https://dl.acm.org/doi/10.1145/3664647.3680777)
+[[Code]](https://github.com/ZZDoog/Speaker2Dubber/tree/main)
+
+**Learning to Dub Movies via Hierarchical Prosody Models** [[CVPR 2023]]\
+*Gaoxiang Cong, Liang Li, Yuankai Qi, Zhengjun Zha, Qi Wu, Wenyu Wang, Bin Jiang, Ming-Hsuan Yang, Qingming Huang*\
+[[Paper]](https://arxiv.org/abs/2212.04054)
+[[Code]](https://github.com/GalaxyCong/HPMDubbing)
+
+**V2C: Visual Voice Cloning** [CVPR 2022]\
+*Qi Chen, Yuanqing Li, Yuankai Qi, Jiaqiu Zhou, Mingkui Tan, Qi Wu*\
+[[Paper]](https://arxiv.org/abs/2111.12890)
+[[Code]](https://github.com/chenqi008/V2C)
 
 ### Layout
 
@@ -289,9 +336,7 @@ This is the production process of traditional 2D animation. We will list these r
 *M Dvorožnák, W Li, VG Kim, D Sýkora*\
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3197517.3201326)
 
-### After Record (AR)
 
-### Dubbing (DB)
 
 
 ## Datasets
