@@ -11,6 +11,7 @@ This repository includes research, datasets, and other resources on AI for cel /
 - 🎥 [Process of Animation Production](#process-of-animation-production)
 - 🛠️ [Methods](#methods)
   - 📜 [Scripting](#-scripting)
+  - 🎭 [Setting](#-setting)
   - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
   - 🗺️ [Layout](#%EF%B8%8F-layout)
   - 🎞️ [Keyframe Animation](#keyframe-animation)
@@ -62,6 +63,16 @@ This is the production process of traditional 2D animation. We will list these r
 *OpenAI* \
 [[Report]](https://arxiv.org/abs/2303.08774)
 
+### 🎭 Setting
+
+**High-Resolution Image Synthesis with Latent Diffusion Models** [CVPR 2022]\
+*Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer* \
+[[Paper]](https://arxiv.org/abs/2112.10752)
+[[Demo]](https://huggingface.co/spaces/multimodalart/latentdiffusion)
+[[Code]](https://github.com/CompVis/latent-diffusion)
+
+**MidJourney** \
+[[Link]](https://www.midjourney.com/home)
 
 ### 🖌️ Storyboarding
 
