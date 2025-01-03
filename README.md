@@ -11,14 +11,15 @@ This repository includes research, datasets, and other resources on AI for cel /
 - 🎥 [Process of Animation Production](#process-of-animation-production)
 - 🛠️ [Methods](#methods)
   - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
+  - 🗺️ [Layout](#%EF%B8%8F-layout)
+  - 🎞️ [Keyframe Animation](#keyframe-animation)
+  - 🍴 [Inbetweening](#-inbetweening)
+  - 🌈 [Colorization](#-colorization)
   - 📷 [Compositing & Photography](#-compositing--photography)
   - ✂️ [Cutting (CT)](#%EF%B8%8F-cutting-ct)
   - 🎶 [Music & Sound Effects](#-music--sound-effects)
   - 🎙️ [After Record (AR) & Dubbing (DB)](#%EF%B8%8F-after-record-ar--dubbing-db)
-  - 🗺️ [Layout](#%EF%B8%8F-layout)
   - 🎨 [Genga](#-genga)
-  - 🍴 [Inbetweening](#-inbetweening)
-  - 🌈 [Colorization](#-colorization)
   - 🎞️ [Editing](#%EF%B8%8F-editing)
 - 📊 [Datasets](#datasets)
 - 🔗 [Others](#others)
@@ -41,6 +42,82 @@ This is the production process of traditional 2D animation. We will list these r
 **CogCartoon: Towards Practical Story Visualization**\
 *Zhongyang Zhu, Jie Tang*\
 [[Paper]](https://arxiv.org/abs/2312.10718)
+
+### 🗺️ Layout
+
+**CogCartoon: Towards Practical Story Visualization** \
+*Zhongyang Zhu, Jie Tang*\
+[[Paper]](https://arxiv.org/abs/2312.10718)
+
+**Sketch-Guided Scene Image Generation** \
+*Tianyu Zhang, Xiaoxuan Xie, Xusheng Du, Haoran Xie*\
+[[Paper]](https://arxiv.org/abs/2407.06469)
+
+**VideoComposer: Compositional Video Synthesis with Motion Controllability** [NIPS 2023]\
+*Xiang Wang, Hangjie Yuan, Shiwei Zhang, Dayou Chen, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou*\
+[[Paper]](https://arxiv.org/abs/2306.02018)
+[[Project Page]](https://videocomposer.github.io/)
+[[Code]](https://github.com/ali-vilab/videocomposer)
+
+**LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators** [ICLR 2019] \
+*Jianan Li, Jimei Yang, Aaron Hertzmann, Jianming Zhang, Tingfa Xu*\
+[[Paper]](https://arxiv.org/abs/1901.06767)
+[[Code]](https://github.com/Layout-Generation/layout-generation/tree/master/LayoutGAN)
+
+**DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation** \
+*Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong*\
+[[Paper]](https://arxiv.org/abs/2412.07589)
+[[Project Page]](https://jianzongwu.github.io/projects/diffsensei/)
+[[Code]](https://github.com/jianzongwu/DiffSensei)
+[[Dataset]](https://huggingface.co/datasets/jianzongwu/MangaZero)
+
+**Manga Generation via Layout-controllable Diffusion** \
+*Siyu Chen, Dengjie Li, Zenghao Bao, Yao Zhou, Lingfeng Tan, Yujie Zhong, Zheng Zhao*\
+[[Paper]](https://arxiv.org/abs/2412.19303v1)
+[[Project Page]](https://siyuch-fdu.github.io/MangaDiffusion/)
+[[Code]](https://github.com/siyuch-fdu/MangaDiffusion)
+
+**CameraCtrl: Enabling Camera Control for Text-to-Video Generation** \
+*Hao He, Yinghao Xu, Yuwei Guo, Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang*\
+[[Paper]](https://arxiv.org/abs/2404.02101)
+[[Project Page]](https://hehao13.github.io/projects-CameraCtrl/)
+[[Demo]](https://huggingface.co/spaces/hehao13/CameraCtrl-svd)
+
+### 🎞️ Keyframe Animation
+
+**Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** [CVPR 2024] \
+[[Paper]](https://arxiv.org/abs/2311.17117)
+[[Project Page]](https://humanaigc.github.io/animate-anyone/)
+[[Code]](https://github.com/HumanAIGC/AnimateAnyone)
+
+**Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance** \
+*Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu* \
+[[Paper]](https://arxiv.org/abs/2403.14781)
+[[Project Page]](https://fudan-generative-vision.github.io/champ/#/)
+[[Code]](https://github.com/fudan-generative-vision/champ)
+
+**MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance** \
+*Yuang Zhang, Jiaxi Gu, Li-Wen Wang, Han Wang, Junqi Cheng, Yuefeng Zhu, Fangyuan Zou*\
+[[Paper]](https://arxiv.org/abs/2406.19680)
+[[Project Page]](https://tencent.github.io/MimicMotion/)
+[[code]](https://github.com/tencent/MimicMotion)
+
+**Animate-X: Universal Character Image Animation with Enhanced Motion Representation** \
+*Shuai Tan, Biao Gong, Xiang Wang, Shiwei Zhang, Dandan Zheng, Ruobing Zheng, Kecheng Zheng, Jingdong Chen, Ming Yang* \
+[[Paper]](https://arxiv.org/abs/2410.10306)
+[[Code]](https://github.com/antgroup/animate-x)
+
+**MikuDance: Animating Character Art with Mixed Motion Dynamics** \
+*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu* \
+[[Paper]](https://arxiv.org/abs/2411.08656)
+[[Project Page]](https://kebii.github.io/MikuDance/)
+[[Code]](https://github.com/Kebii/MikuDance)
+
+**Collaborative Neural Rendering using Anime Character Sheets** [IJCAI 2023] \
+*Zuzeng Lin, Ailin Huang, Zhewei Huang* \
+[[Paper]](https://arxiv.org/abs/2207.05378)
+[[Code]](https://github.com/megvii-research/IJCAI2023-CoNR)
+[[dataset]](https://github.com/P2Oileen/CoNR_Dataset)
 
 ### 📷 Compositing & Photography
 
@@ -214,7 +291,7 @@ This is the production process of traditional 2D animation. We will list these r
 [[Paper]](https://arxiv.org/abs/2111.12890)
 [[Code]](https://github.com/chenqi008/V2C)
 
-### 🗺️ Layout
+
 
 ### 🎨 Genga
 
