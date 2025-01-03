@@ -23,6 +23,7 @@ This repository includes research, datasets, and other resources on AI for cel /
   - 🎙️ [After Record (AR) & Dubbing (DB)](#%EF%B8%8F-after-record-ar--dubbing-db)
   - 🎞️ [Cel-Animation Editing](#%EF%B8%8F-cel-animation-editing)
   - 🎨 [Cels Decomposition](#-cels-decomposition)
+  - 🏯 [3D Assistance](#-3d-assistance)
 - 📊 [Datasets](#datasets)
 - 🔗 [Others](#others)
 - 📁 [Related Repository](#related-repository)
@@ -413,11 +414,6 @@ This is the production process of traditional 2D animation. We will list these r
 [[Paper]](https://arxiv.org/abs/2111.12890)
 [[Code]](https://github.com/chenqi008/V2C)
 
-
-
-### 🎨 Genga
-
-
 ### 🍴 Inbetweening
 
 **ToonCrafter: Generative Cartoon Interpolation** [arXiv 2024]\
@@ -437,8 +433,6 @@ This is the production process of traditional 2D animation. We will list these r
         <td><img src="assets/05.gif"></td>
     </tr>
 </table>
-
-
 
 **Joint Stroke Tracing and Correspondence for 2D Animation** [SIGGRAPH 2024]\
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
@@ -582,7 +576,6 @@ This is the production process of traditional 2D animation. We will list these r
 **Toona**\
 [[Website]](https://toona.io/)
 
-
 ### 🎞️ Cel-Animation Editing
 
 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** [TBA 2024]\
@@ -602,11 +595,27 @@ This is the production process of traditional 2D animation. We will list these r
 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439)
 [[Code]](https://lllyasviel.github.io/GitPageToonDecompose/)
 
+**Generative Omnimatte: Learning to Decompose Video into Layers** \
+*Yao-Chih Lee, Erika Lu, Sarah Rumbley, Michal Geyer, Jia-Bin Huang, Tali Dekel, Forrester Cole* \
+[[Paper]](https://arxiv.org/abs/2411.16683)
+[[Project Page]](https://gen-omnimatte.github.io/)
+
+### 🏯 3D Assistance
+
 **Toonsynth: Example-based Synthesis of Hand-Colored Cartoon Animations** [TOG 2018]\
 *M Dvorožnák, W Li, VG Kim, D Sýkora*\
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3197517.3201326)
 
+**Collaborative Neural Rendering using Anime Character Sheets** [IJCAI 2023] \
+*Zuzeng Lin, Ailin Huang, Zhewei Huang* \
+[[Paper]](https://arxiv.org/abs/2207.05378)
+[[Code]](https://github.com/megvii-research/IJCAI2023-CoNR)
+[[dataset]](https://github.com/P2Oileen/CoNR_Dataset)
 
+**DrawingSpinUp: 3D Animation from Single Character Drawings** [Siggraph Asia 2024] \
+*Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu*\
+[[Paper]](https://arxiv.org/abs/2409.08615)
+[[Code]](https://github.com/LordLiang/DrawingSpinUp)
 
 
 ## Datasets
