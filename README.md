@@ -6,24 +6,24 @@ This repository includes research, datasets, and other resources on AI for cel /
 
 <img src="assets/teaser.png">
 
-## Table of Contents
-- [Awesome Research on AI for Animation](#awesome-research-on-ai-for-animation)
-  - [Table of Contents](#table-of-contents)
-  - [Process of Animation Production](#process-of-animation-production)
-  - [Methods](#methods)
-    - [Storyboarding](#storyboarding)
-    - [Compositing & Photography](#compositing--photography)
-    - [Cutting (CT)](#cutting-ct)
-    - [Music & Sound Effects](#music--sound-effects)
-    - [After Record (AR) & Dubbing (DB)](#after-record-ar--dubbing-db)
-    - [Layout](#layout)
-    - [Genga](#genga)
-    - [Inbetweening](#inbetweening)
-    - [Colorization](#colorization)
-    - [Editing](#editing)
-  - [Datasets](#datasets)
-  - [Others](#others)
-  - [Related Repository](#related-repository)
+# 🎬 Awesome Research on AI for Animation
+## 📖 Table of Contents
+- 🎥 [Process of Animation Production](#process-of-animation-production)
+- 🛠️ [Methods](#methods)
+  - 🖌️ [Storyboarding](#storyboarding)
+  - 📷 [Compositing & Photography](#compositing--photography)
+  - ✂️ [Cutting (CT)](#cutting-ct)
+  - 🎶 [Music & Sound Effects](#music--sound-effects)
+  - 🎙️ [After Record (AR) & Dubbing (DB)](#after-record-ar--dubbing-db)
+  - 🗺️ [Layout](#layout)
+  - 🎨 [Genga](#genga)
+  - 🍴 [Inbetweening](#inbetweening)
+  - 🌈 [Colorization](#colorization)
+  - 🎞️ [Editing](#editing)
+- 📊 [Datasets](#datasets)
+- 🔗 [Others](#others)
+- 📁 [Related Repository](#related-repository)
+
 
 
 ## Process of Animation Production
@@ -33,7 +33,7 @@ This is the production process of traditional 2D animation. We will list these r
 
 ## Methods
 
-### Storyboarding
+### 🖌️ Storyboarding
 
 **Storyboarder.ai**\
 [[Website]](https://www.storyboarder.ai/)
@@ -42,7 +42,7 @@ This is the production process of traditional 2D animation. We will list these r
 *Zhongyang Zhu, Jie Tang*\
 [[Paper]](https://arxiv.org/abs/2312.10718)
 
-### Compositing & Photography
+### 📷 Compositing & Photography
 
 **Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**
 [[Paper]](https://openreview.net/forum?id=u1cQYxRI1H)
@@ -105,7 +105,7 @@ This is the production process of traditional 2D animation. We will list these r
 [[Project Page]](https://shengcn.github.io/SSN/)
 [[Code]](https://github.com/ShengCN/SSN_SoftShadowNet)
 
-### Cutting (CT)
+### ✂️ Cutting (CT)
 
 **Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward** [ACCV 2022]\
 *Yunlong Tang, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng*\
@@ -119,7 +119,7 @@ This is the production process of traditional 2D animation. We will list these r
 **OpusClip** \
 [[Website]](https://www.opus.pro/)
 
-### Music & Sound Effects
+### 🎶 Music & Sound Effects
 
 **Foley Music: Learning to Generate Music from Videos** [ECCV 2020]\
 *Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, Antonio Torralba*\
@@ -181,7 +181,7 @@ This is the production process of traditional 2D animation. We will list these r
 [[Project Page]](https://vision.cs.utexas.edu/projects/action2sound/)
 [[Code]](https://github.com/ChanganVR/action2sound)
 
-### After Record (AR) & Dubbing (DB)
+### 🎙️ After Record (AR) & Dubbing (DB)
 
 **StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing** 【ACL 2024]\
 *Gaoxiang Cong, Yuankai Qi, Liang Li, Amin Beheshti, Zhedong Zhang, Anton van den Hengel, Ming-Hsuan Yang, Chenggang Yan, Qingming Huang*\
@@ -214,12 +214,12 @@ This is the production process of traditional 2D animation. We will list these r
 [[Paper]](https://arxiv.org/abs/2111.12890)
 [[Code]](https://github.com/chenqi008/V2C)
 
-### Layout
+### 🗺️ Layout
 
-### Genga
+### 🎨 Genga
 
 
-### Inbetweening
+### 🍴 Inbetweening
 
 **ToonCrafter: Generative Cartoon Interpolation** [arXiv 2024]\
 *Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong*\
@@ -284,7 +284,7 @@ This is the production process of traditional 2D animation. We will list these r
 *Leonardo Carvalho, Ricardo Marroquim, Emilio Vital Brazil*\
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300390)
 
-### Colorization
+### 🌈 Colorization
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [[Paper]](https://arxiv.org/abs/2403.18342)
@@ -384,7 +384,7 @@ This is the production process of traditional 2D animation. We will list these r
 [[Website]](https://toona.io/)
 
 
-### Editing
+### 🎞️ Editing
 
 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** [TBA 2024]\
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
