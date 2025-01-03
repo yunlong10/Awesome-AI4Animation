@@ -22,7 +22,7 @@ This repository includes research, datasets, and other resources on AI for cel /
   - 🎶 [Music & Sound Effects](#-music--sound-effects)
   - 🎙️ [After Record (AR) & Dubbing (DB)](#%EF%B8%8F-after-record-ar--dubbing-db)
   - 🎞️ [Cel-Animation Editing](#%EF%B8%8F-cel-animation-editing)
-  - 🎨 [Cels Decomposition](-cels-decomposition)
+  - 🎨 [Cels Decomposition](#-cels-decomposition)
 - 📊 [Datasets](#datasets)
 - 🔗 [Others](#others)
 - 📁 [Related Repository](#related-repository)
