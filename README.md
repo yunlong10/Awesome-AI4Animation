@@ -57,7 +57,7 @@ This is the production process of traditional 2D animation. We will list these r
 **Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond** \
 *Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou* \
 [[Paper]](https://arxiv.org/abs/2308.12966)
-[[Code]](https://github.com/QwenLM/Qwen-VL
+[[Code]](https://github.com/QwenLM/Qwen-VL)
 
 **Gpt-4** \
 *OpenAI* \
