@@ -21,8 +21,8 @@ This repository includes research, datasets, and other resources on AI for cel /
   - ✂️ [Cutting (CT)](#%EF%B8%8F-cutting-ct)
   - 🎶 [Music & Sound Effects](#-music--sound-effects)
   - 🎙️ [After Record (AR) & Dubbing (DB)](#%EF%B8%8F-after-record-ar--dubbing-db)
-  - 🎨 [Genga](#-genga)
-  - 🎞️ [Editing](#%EF%B8%8F-editing)
+  - 🎞️ [Cel-Animation Editing](#%EF%B8%8F-cel-animation-editing)
+  - 🎨 [Cels Decomposition](-cels-decomposition)
 - 📊 [Datasets](#datasets)
 - 🔗 [Others](#others)
 - 📁 [Related Repository](#related-repository)
@@ -583,11 +583,19 @@ This is the production process of traditional 2D animation. We will list these r
 [[Website]](https://toona.io/)
 
 
-### 🎞️ Editing
+### 🎞️ Cel-Animation Editing
 
 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** [TBA 2024]\
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
 [[Paper]](https://arxiv.org/abs/2401.03499)
+
+**Scaling Concept With Text-Guided Diffusion Models** \
+*Chao Huang, Susan Liang, Yunlong Tang, Yapeng Tian, Anurag Kumar, Chenliang Xu*\
+[[paper]](https://arxiv.org/abs/2410.24151)
+[[Project Page]](https://wikichao.github.io/ScalingConcept/)
+[[Code]](https://github.com/WikiChao/ScalingConcept)
+
+### 🎨 Cels Decomposition
 
 **Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation** [ACM 2022]\
 *Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu*\
