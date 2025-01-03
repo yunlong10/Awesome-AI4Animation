@@ -12,6 +12,7 @@ This repository includes research, datasets, and other resources on AI for cel /
   - [Process of Animation Production](#process-of-animation-production)
   - [Methods](#methods)
     - [Storyboarding](#storyboarding)
+    - [Compositing & Photography](#compositing-photography)
     - [Layout](#layout)
     - [Genga](#genga)
     - [Inbetweening](#inbetweening)
@@ -39,6 +40,69 @@ This is the production process of traditional 2D animation. We will list these r
 **CogCartoon: Towards Practical Story Visualization**\
 *Zhongyang Zhu, Jie Tang*\
 [[Paper]](https://arxiv.org/abs/2312.10718)
+
+### Compositing & Photography
+
+**Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**
+[[Paper]](https://openreview.net/forum?id=u1cQYxRI1H)
+
+**DoveNet: Deep Image Harmonization via Domain Verification** [CVPR 2020]\
+*Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang*\
+[[Paper]](https://arxiv.org/abs/1911.13239)
+[[Code]](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)
+[[Demo]](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/)
+[[Dataset(Baidu Cloud(access code: kqz3))]](https://pan.baidu.com/s/1xEN0Xrv_MbuKT0ZqsipeEg)
+[[Dataset(OneDrive)]](https://1drv.ms/f/s!AohNSvvkuxZmgTHOraRzo5-X3nMp?e=bQQKkR)
+
+**High-Resolution Image Harmonization via Collaborative Dual Transformations** [CVPR 2022]\
+*Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang*\
+[[Paper]](https://arxiv.org/abs/2109.06671)
+[[Code]](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization)
+
+**PCT-Net: Full Resolution Image Harmonization Using Pixel-Wise Color Transformations** [CVPR 2023]\
+*Guerreiro, Julian Jorge Andrade and Nakazawa, Mitsuru and Stenger, Bj\"orn*\
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Guerreiro_PCT-Net_Full_Resolution_Image_Harmonization_Using_Pixel-Wise_Color_Transformations_CVPR_2023_paper.pdf)
+[[Code]](https://github.com/rakutentech/PCT-Net-Image-Harmonization/)
+
+**SSH: A Self-Supervised Framework for Image Harmonization** [ICCV 2021]\
+*Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang*\
+[[Paper]](https://arxiv.org/abs/2108.06805)
+[[Code]](https://github.com/VITA-Group/SSHarmonization)
+
+**Thinking Outside the BBox: Unconstrained Generative Object Compositing** [ECCV 2024]\
+*Gemma Canet Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim*\
+[[Paper]](https://arxiv.org/abs/2409.04559)
+
+**Dr.Bokeh: DiffeRentiable Occlusion-aware Bokeh Rendering** \
+*Yichen Sheng, Zixun Yu, Lu Ling, Zhiwen Cao, Cecilia Zhang, Xin Lu, Ke Xian, Haiting Lin, Bedrich Benes*\
+[[Paper]](https://arxiv.org/abs/2308.08843)
+[[Code]](https://github.com/ShengCN/DrBokeh-Src)
+
+**Floating No More: Object-Ground Reconstruction from a Single Image** \
+*Yunze Man, Yichen Sheng, Jianming Zhang, Liang-Yan Gui, Yu-Xiong Wang*\
+[[Paper]](https://arxiv.org/abs/2407.18914)
+[[Project Page]](https://yunzeman.github.io/ORG/)
+
+**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion** \
+*Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen*\
+[[Paper]](https://arxiv.org/abs/2403.18818)
+[[Peoject Page]](https://objectdrop.github.io/)
+
+**Alchemist: Parametric Control of Material Properties with Diffusion Models** [CVPR 2024]\
+*Prafull Sharma, Varun Jampani, Yuanzhen Li, Xuhui Jia, Dmitry Lagun, Fredo Durand, William T. Freeman, Mark Matthews*\
+[[Paper]](https://arxiv.org/abs/2312.02970)
+[[Project Page]](https://www.prafullsharma.net/alchemist/)
+
+**DisenStudio: Customized Multi-Subject Text-to-Video Generation with Disentangled Spatial Control** [ACMMM 2024]\
+*Hong Chen, Xin Wang, Yipeng Zhang, Yuwei Zhou, Zeyang Zhang, Siao Tang, Wenwu Zhu*\
+[[Paper]](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2024_DisenStudio%20Customized%20Multi-Subject%20Text-to-Video%20Generation%20with%20Disentangled%20Spatial%20Control.pdf)
+[[Code]](https://github.com/forchchch/disenstudio.github.io?tab=readme-ov-file)
+
+**SSN: Soft Shadow Network for Image Compositing** [CVPR 2021]\
+*Yichen Sheng, Jianming Zhang, Bedrich Benes*\
+[[Paper]](https://arxiv.org/abs/2007.08211)
+[[Project Page]](https://shengcn.github.io/SSN/)
+[[Code]](https://github.com/ShengCN/SSN_SoftShadowNet)
 
 ### Layout
 
@@ -232,7 +296,7 @@ This is the production process of traditional 2D animation. We will list these r
 
 ## Datasets
 
-### Comprehension, Generation
+<!--### Comprehension, Generation-->
 **Sakuga-42M Dataset: Scaling Up Cartoon Research** [arXiv 2024]\
 *Zhenglin Pan, Yu Zhu, Yuxuan Mu*\
 [[Paper]](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view)
@@ -244,20 +308,20 @@ This is the production process of traditional 2D animation. We will list these r
 [[Paper]](https://arxiv.org/pdf/2412.10255)
 [[Code]](https://github.com/bilibili/Index-anisora)
 
-### Dubbing
+<!--### Dubbing-->
 **ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video** [ICASSP 2024]\
 *Kevin Cai, Chonghua Liu, David M. Chan*\
 [[Paper]](https://arxiv.org/pdf/2401.05314)
 [[Code]](https://github.com/davidmchan/Anim400K)
 [[Dataset]](https://huggingface.co/datasets/davidchan/anim400k)
 
-**V2C: Visual Voice Cloning** [[CVPR 2022]]\
+**V2C: Visual Voice Cloning** [CVPR 2022]\
 *Qi Chen, Yuanqing Li, Yuankai Qi, Jiaqiu Zhou, Mingkui Tan, Qi Wu*\
 [[Paper]](https://arxiv.org/abs/2111.12890)
 [[Code]](https://github.com/chenqi008/V2C)
 
-### Compositing, Photography
-**DoveNet: Deep Image Harmonization via Domain Verification** [[CVPR 2020]]\
+<!--### Compositing, Photography-->
+**DoveNet: Deep Image Harmonization via Domain Verification** [CVPR 2020]\
 *Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang*\
 [[Paper]](https://arxiv.org/abs/1911.13239)
 [[Code]](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)
@@ -265,13 +329,13 @@ This is the production process of traditional 2D animation. We will list these r
 [[Dataset(Baidu Cloud(access code: kqz3))]](https://pan.baidu.com/s/1xEN0Xrv_MbuKT0ZqsipeEg)
 [[Dataset(OneDrive)]](https://1drv.ms/f/s!AohNSvvkuxZmgTHOraRzo5-X3nMp?e=bQQKkR)
 
-**SSH: A Self-Supervised Framework for Image Harmonization** [[ICCV 2021]]\
+**SSH: A Self-Supervised Framework for Image Harmonization** [ICCV 2021]\
 *Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang*\
 [[Paper]](https://arxiv.org/abs/2108.06805)
 [[Code]](https://github.com/VITA-Group/SSHarmonization)
 [[Dataset]](https://drive.google.com/file/d/1jBx-DBtRX8GaqMvMv-CZutK4jn9tz-fT/view)
 
-**Intrinsic Image Harmonization** [[CVPR 2021]]\
+**Intrinsic Image Harmonization** [CVPR 2021]\
 *Zonghui Guo, Haiyong Zheng, Yufeng Jiang, Zhaorui Gu, Bing Zheng*\
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Intrinsic_Image_Harmonization_CVPR_2021_paper.pdf)
 [[Code]](https://github.com/zhenglab/IntrinsicHarmony)
@@ -283,7 +347,7 @@ This is the production process of traditional 2D animation. We will list these r
 [[Paper]](https://arxiv.org/abs/2312.02970)
 [[Project Page]](https://www.prafullsharma.net/alchemist/)
 
-### Colorization
+<!--### Colorization-->
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [[Paper]](https://arxiv.org/abs/2403.18342)
@@ -292,7 +356,7 @@ This is the production process of traditional 2D animation. We will list these r
 [[Code]](https://github.com/ykdai/BasicPBC)
 [[Dataset]](https://github.com/ykdai/BasicPBC/tree/main/dataset)
 
-### Inbetweening
+<!--### Inbetweening-->
 **Deep Animation Video Interpolation in the Wild** [CVPR 2021]\
 *Li Siyao, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu*\
 [[Paper]](https://arxiv.org/pdf/2104.02495)
