@@ -180,6 +180,12 @@ This is the production process of traditional 2D animation. We will list these r
 [[Paper]](https://arxiv.org/abs/1901.06767)
 [[Code]](https://github.com/Layout-Generation/layout-generation/tree/master/LayoutGAN)
 
+**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning** [COLM 2024] \
+*Han Lin, Abhay Zala, Jaemin Cho, Mohit Bansal* \
+[[Paper]](https://arxiv.org/abs/2309.15091)
+[[Project Page]](https://videodirectorgpt.github.io/)
+[[Code]](https://github.com/HL-hanlin/VideoDirectorGPT)
+
 **DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation** \
 *Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong*\
 [[Paper]](https://arxiv.org/abs/2412.07589)
