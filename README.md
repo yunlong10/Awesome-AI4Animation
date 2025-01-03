@@ -10,6 +10,7 @@ This repository includes research, datasets, and other resources on AI for cel /
 ## 📖 Table of Contents
 - 🎥 [Process of Animation Production](#process-of-animation-production)
 - 🛠️ [Methods](#methods)
+  - 📜 [Scripting](Scripting)
   - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
   - 🗺️ [Layout](#%EF%B8%8F-layout)
   - 🎞️ [Keyframe Animation](#keyframe-animation)
@@ -33,6 +34,34 @@ This is the production process of traditional 2D animation. We will list these r
 <img src="assets/production.png">
 
 ## Methods
+
+### 📜 Scripting
+
+**HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing** \
+*Jing Chen, Xinyu Zhu, Cheng Yang, Chufan Shi, Yadong Xi, Yuxiang Zhang, Junjie Wang, Jiashu Pu, Rongsheng Zhang, Yujiu Yang, Tian Feng*\
+[[Paper]](https://arxiv.org/abs/2406.11683)
+
+**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context** \
+*Gemini Team Google*\
+[[Paper]](https://arxiv.org/abs/2403.05530)
+
+**Claude 3.5 Sonnet** \
+[[Link]](https://www.anthropic.com/news/claude-3-5-sonnet)
+
+**InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** [CVPR 2024]\
+*Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai* \
+[[Paper]](https://arxiv.org/abs/2312.14238)
+[[Code]](https://github.com/OpenGVLab/InternVL)
+
+**Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond** \
+*Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou* \
+[[Paper]](https://arxiv.org/abs/2308.12966)
+[[Code]](https://github.com/QwenLM/Qwen-VL
+
+**Gpt-4** \
+*OpenAI* \
+[[Report]](https://arxiv.org/abs/2303.08774)
+
 
 ### 🖌️ Storyboarding
 
