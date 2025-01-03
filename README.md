@@ -14,6 +14,7 @@ This repository includes research, datasets, and other resources on AI for cel /
     - [Storyboarding](#storyboarding)
     - [Compositing & Photography](#compositing--photography)
     - [Cutting (CT)](#cutting-ct)
+    - [Music & Sound Effects](#music--sound-effects)
     - [After Record (AR) & Dubbing (DB)](#after-record-ar--dubbing-db)
     - [Layout](#layout)
     - [Genga](#genga)
@@ -117,6 +118,68 @@ This is the production process of traditional 2D animation. We will list these r
 
 **OpusClip** \
 [[Website]](https://www.opus.pro/)
+
+### Music & Sound Effects
+
+**Foley Music: Learning to Generate Music from Videos** [ECCV 2020]\
+*Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, Antonio Torralba*\
+[[Paper]](https://arxiv.org/abs/2007.10984)
+[[Code]](https://github.com/chuangg/Foley-Music)
+
+**Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model** 
+*Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model*\
+[[Paper]](https://arxiv.org/abs/2311.00968)
+[[Demo]](https://huggingface.co/spaces/amaai-lab/video2music)
+[[Project Page]](https://amaai-lab.github.io/Video2Music/)
+[[Code]](https://github.com/amaai-lab/video2music)
+[[Dataset]](https://zenodo.org/records/10057093)
+
+**V2Meow: Meowing to the Visual Beat via Video-to-Music Generation** [AAAI 2024]\
+*Kun Su, Judith Yue Li, Qingqing Huang, Dima Kuzmin, Joonseok Lee, Chris Donahue, Fei Sha, Aren Jansen, Yu Wang, Mauro Verzetti, Timo I. Denk*\
+[[Paper]](https://arxiv.org/abs/2305.06594)
+[[Project Page]](https://google-research.github.io/noise2music/v2meow/)
+
+**MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models** [CVPR 2024]\
+*Sanjoy Chowdhury, Sayan Nag, K J Joseph, Balaji Vasan Srinivasan, Dinesh Manocha*\
+[[Paper]](https://arxiv.org/abs/2406.04673)
+[[Prpject Page]](https://schowdhury671.github.io/melfusion_cvpr2024/)
+[[Code]](https://github.com/schowdhury671/melfusion/tree/main)
+[[Dataset]](https://umd0-my.sharepoint.com/personal/sanjoyc_umd_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsanjoyc%5Fumd%5Fedu%2FDocuments%2FMeLFusion%20datasets&ga=1)
+
+**VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling** \
+*Zeyue Tian, Zhaoyang Liu, Ruibin Yuan, Jiahao Pan, Qifeng Liu, Xu Tan, Qifeng Chen, Wei Xue, Yike Guo*\
+[[Paper]](https://arxiv.org/abs/2406.04321)
+[[Code]](https://github.com/ZeyueT/VidMuse/)
+
+**Taming Visually Guided Sound Generation** [BMVC 2021]\
+*Vladimir Iashin, Esa Rahtu*\
+[[Paper]](https://arxiv.org/abs/2110.08791)
+[[Project Page]](https://v-iashin.github.io/SpecVQGAN)
+[[Demo]](https://colab.research.google.com/drive/1pxTIMweAKApJZ3ZFqyBee3HtMqFpnwQ0?usp=sharing)
+[[Code]](https://github.com/v-iashin/SpecVQGAN)
+
+**I Hear Your True Colors: Image Guided Audio Generation** [ICASSP 2023]\
+*Roy Sheffer, Yossi Adi*\
+[[Paper]](https://arxiv.org/abs/2211.03089)
+[[Project Page]](https://pages.cs.huji.ac.il/adiyoss-lab/im2wav/)
+[[Code]](https://github.com/RoySheffer/im2wav)
+
+**FoleyGen: Visually-Guided Audio Generation** \
+*Xinhao Mei, Varun Nagaraja, Gael Le Lan, Zhaoheng Ni, Ernie Chang, Yangyang Shi, Vikas Chandra*\
+[[Paper]](https://arxiv.org/abs/2309.10537)
+[[Project Page]](https://xinhaomei.github.io/foleygen_demo/)
+
+**Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models** [NeurIPS 2023]\
+*Simian Luo, Chuanhao Yan, Chenxu Hu, Hang Zhao*\
+[[Paper]](https://arxiv.org/abs/2306.17203)
+[[Project Page]](https://diff-foley.github.io/)
+[[Code]](https://github.com/luosiallen/Diff-Foley)
+
+**Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos** [ECCV 2024]\
+*Changan Chen, Puyuan Peng, Ami Baid, Zihui Xue, Wei-Ning Hsu, David Harwath, Kristen Grauman*\
+[[Paper]](https://arxiv.org/abs/2406.09272)
+[[Project Page]](https://vision.cs.utexas.edu/projects/action2sound/)
+[[Code]](https://github.com/ChanganVR/action2sound)
 
 ### After Record (AR) & Dubbing (DB)
 
