@@ -8,8 +8,8 @@ This repository includes research, datasets, and other resources on AI for cel /
 
 # 🎬 Awesome Research on AI for Animation
 ## 📖 Table of Contents
-- 🎥 [Process of Animation Production](#process-of-animation-production)
-- 🛠️ [Methods](#methods)
+- 🎥 [Process of Animation Production](#-process-of-animation-production)
+- 🛠️ [Methods](#-methods)
   - 📜 [Scripting](#-scripting)
   - 🎭 [Setting](#-setting)
   - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
@@ -24,18 +24,18 @@ This repository includes research, datasets, and other resources on AI for cel /
   - 🎞️ [Cel-Animation Editing](#%EF%B8%8F-cel-animation-editing)
   - 🎨 [Cels Decomposition](#-cels-decomposition)
   - 🏯 [3D Assistance](#-3d-assistance)
-- 📊 [Datasets](#datasets)
+- 📊 [Datasets](#-datasets)
 - 🔗 [Others](#others)
 - 📁 [Related Repository](#related-repository)
 
 
 
-## Process of Animation Production
+## 🎥 Process of Animation Production
 This is the production process of traditional 2D animation. We will list these research topics roughly in this sequence.
 <img src="assets/pipeline.png">
 <img src="assets/production.png">
 
-## Methods
+## 🛠️ Methods
 
 ### 📜 Scripting
 
@@ -618,7 +618,7 @@ This is the production process of traditional 2D animation. We will list these r
 [[Code]](https://github.com/LordLiang/DrawingSpinUp)
 
 
-## Datasets
+## 📊 Datasets
 
 <!--### Comprehension, Generation-->
 **Sakuga-42M Dataset: Scaling Up Cartoon Research** [arXiv 2024]\
