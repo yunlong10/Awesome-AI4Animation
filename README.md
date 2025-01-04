@@ -9,7 +9,7 @@ This repository includes research, datasets, and other resources on AI for cel /
 # 🎬 Awesome Research on AI for Animation
 ## 📖 Table of Contents
 - 🎥 [Process of Animation Production](#-process-of-animation-production)
-- 🛠️ [Methods](#-methods)
+- 🛠️ [Methods](#%EF%B8%8F-methods)
   - 📜 [Scripting](#-scripting)
   - 🎭 [Setting](#-setting)
   - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
