@@ -200,6 +200,18 @@ This is the production process of traditional 2D animation. We will list these r
 
 ### 🗺️ Layout
 
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**CogCartoon: Towards Practical Story Visualization**](https://arxiv.org/abs/2312.10718)         | Zhongyang Zhu, Jie Tang                                                                             |                                                                                                      |              |
+| [**Sketch-Guided Scene Image Generation**](https://arxiv.org/abs/2407.06469)                     | Tianyu Zhang, Xiaoxuan Xie, Xusheng Du, Haoran Xie                                                  |                                                                                                      |              |
+| [**VideoComposer: Compositional Video Synthesis with Motion Controllability**](https://arxiv.org/abs/2306.02018) | Xiang Wang, Hangjie Yuan, Shiwei Zhang, Dayou Chen, Jiuniu Wang, Yingya Zhang, Yujun Shen, Deli Zhao, Jingren Zhou | [Project Page](https://videocomposer.github.io/) [Code](https://github.com/ali-vilab/videocomposer) | NIPS 2023     |
+| [**LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators**](https://arxiv.org/abs/1901.06767) | Jianan Li, Jimei Yang, Aaron Hertzmann, Jianming Zhang, Tingfa Xu | [Code](https://github.com/Layout-Generation/layout-generation/tree/master/LayoutGAN) | ICLR 2019     |
+| [**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**](https://arxiv.org/abs/2309.15091) | Han Lin, Abhay Zala, Jaemin Cho, Mohit Bansal | [Project Page](https://videodirectorgpt.github.io/) [Code](https://github.com/HL-hanlin/VideoDirectorGPT) | COLM 2024 |
+| [**DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation**](https://arxiv.org/abs/2412.07589) | Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong | [Project Page](https://jianzongwu.github.io/projects/diffsensei/) [Code](https://github.com/jianzongwu/DiffSensei) [Dataset](https://huggingface.co/datasets/jianzongwu/MangaZero) |              |
+| [**Manga Generation via Layout-controllable Diffusion**](https://arxiv.org/abs/2412.19303v1)     | Siyu Chen, Dengjie Li, Zenghao Bao, Yao Zhou, Lingfeng Tan, Yujie Zhong, Zheng Zhao                  | [Project Page](https://siyuch-fdu.github.io/MangaDiffusion/) [Code](https://github.com/siyuch-fdu/MangaDiffusion) |              |
+| [**CameraCtrl: Enabling Camera Control for Text-to-Video Generation**](https://arxiv.org/abs/2404.02101) | Hao He, Yinghao Xu, Yuwei Guo, Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang | [Project Page](https://hehao13.github.io/projects-CameraCtrl/) [Demo](https://huggingface.co/spaces/hehao13/CameraCtrl-svd) |              |
+
+
 **CogCartoon: Towards Practical Story Visualization** \
 *Zhongyang Zhu, Jie Tang*\
 [[Paper]](https://arxiv.org/abs/2312.10718)
@@ -246,6 +258,16 @@ This is the production process of traditional 2D animation. We will list these r
 
 ### 🎞️ Keyframe Animation
 
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation**](https://arxiv.org/abs/2311.17117) | CVPR 2024 | [Project Page](https://humanaigc.github.io/animate-anyone/) [Code](https://github.com/HumanAIGC/AnimateAnyone) | CVPR 2024    |
+| [**Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance**](https://arxiv.org/abs/2403.14781) | Shenhao Zhu, Junming Leo Chen, Zuozhuo Dai, Qingkun Su, Yinghui Xu, Xun Cao, Yao Yao, Hao Zhu, Siyu Zhu | [Project Page](https://fudan-generative-vision.github.io/champ/#/) [Code](https://github.com/fudan-generative-vision/champ) |              |
+| [**MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance**](https://arxiv.org/abs/2406.19680) | Yuang Zhang, Jiaxi Gu, Li-Wen Wang, Han Wang, Junqi Cheng, Yuefeng Zhu, Fangyuan Zou | [Project Page](https://tencent.github.io/MimicMotion/) [Code](https://github.com/tencent/MimicMotion) |              |
+| [**Animate-X: Universal Character Image Animation with Enhanced Motion Representation**](https://arxiv.org/abs/2410.10306) | Shuai Tan, Biao Gong, Xiang Wang, Shiwei Zhang, Dandan Zheng, Ruobing Zheng, Kecheng Zheng, Jingdong Chen, Ming Yang | [Code](https://github.com/antgroup/animate-x) |              |
+| [**MikuDance: Animating Character Art with Mixed Motion Dynamics**](https://arxiv.org/abs/2411.08656) | Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu | [Project Page](https://kebii.github.io/MikuDance/) [Code](https://github.com/Kebii/MikuDance) |              |
+| [**Collaborative Neural Rendering using Anime Character Sheets**](https://arxiv.org/abs/2207.05378) | Zuzeng Lin, Ailin Huang, Zhewei Huang | [Code](https://github.com/megvii-research/IJCAI2023-CoNR) [Dataset](https://github.com/P2Oileen/CoNR_Dataset) | IJCAI 2023   |
+
+
 **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** [CVPR 2024] \
 [[Paper]](https://arxiv.org/abs/2311.17117)
 [[Project Page]](https://humanaigc.github.io/animate-anyone/)
@@ -281,6 +303,22 @@ This is the production process of traditional 2D animation. We will list these r
 [[dataset]](https://github.com/P2Oileen/CoNR_Dataset)
 
 ### 📷 Compositing & Photography
+
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**](https://openreview.net/forum?id=u1cQYxRI1H) | | |              |
+| [**DoveNet: Deep Image Harmonization via Domain Verification**](https://arxiv.org/abs/1911.13239) | Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang | [Code](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) [Demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) [Dataset(Baidu Cloud(access code: kqz3))](https://pan.baidu.com/s/1xEN0Xrv_MbuKT0ZqsipeEg) [Dataset(OneDrive)](https://1drv.ms/f/s!AohNSvvkuxZmgTHOraRzo5-X3nMp?e=bQQKkR) | CVPR 2020 |
+| [**High-Resolution Image Harmonization via Collaborative Dual Transformations**](https://arxiv.org/abs/2109.06671) | Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang | [Code](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization) | CVPR 2022     |
+| [**PCT-Net: Full Resolution Image Harmonization Using Pixel-Wise Color Transformations**](https://openaccess.thecvf.com/content/CVPR2023/papers/Guerreiro_PCT-Net_Full_Resolution_Image_Harmonization_Using_Pixel-Wise_Color_Transformations_CVPR_2023_paper.pdf) | Julian Jorge Andrade Guerreiro, Mitsuru Nakazawa, Björn Stenger | [Code](https://github.com/rakutentech/PCT-Net-Image-Harmonization/) | CVPR 2023 |
+| [**SSH: A Self-Supervised Framework for Image Harmonization**](https://arxiv.org/abs/2108.06805) | Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang | [Code](https://github.com/VITA-Group/SSHarmonization) | ICCV 2021 |
+| [**Thinking Outside the BBox: Unconstrained Generative Object Compositing**](https://arxiv.org/abs/2409.04559) | Gemma Canet Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim | | ECCV 2024 |
+| [**Dr.Bokeh: DiffeRentiable Occlusion-aware Bokeh Rendering**](https://arxiv.org/abs/2308.08843) | Yichen Sheng, Zixun Yu, Lu Ling, Zhiwen Cao, Cecilia Zhang, Xin Lu, Ke Xian, Haiting Lin, Bedrich Benes | [Code](https://github.com/ShengCN/DrBokeh-Src) |              |
+| [**Floating No More: Object-Ground Reconstruction from a Single Image**](https://arxiv.org/abs/2407.18914) | Yunze Man, Yichen Sheng, Jianming Zhang, Liang-Yan Gui, Yu-Xiong Wang | [Project Page](https://yunzeman.github.io/ORG/) |              |
+| [**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**](https://arxiv.org/abs/2403.18818) | Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen | [Project Page](https://objectdrop.github.io/) |              |
+| [**Alchemist: Parametric Control of Material Properties with Diffusion Models**](https://arxiv.org/abs/2312.02970) | Prafull Sharma, Varun Jampani, Yuanzhen Li, Xuhui Jia, Dmitry Lagun, Fredo Durand, William T. Freeman, Mark Matthews | [Project Page](https://www.prafullsharma.net/alchemist/) | CVPR 2024 |
+| [**DisenStudio: Customized Multi-Subject Text-to-Video Generation with Disentangled Spatial Control**](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2024_DisenStudio%20Customized%20Multi-Subject%20Text-to-Video%20Generation%20with%20Disentangled%20Spatial%20Control.pdf) | Hong Chen, Xin Wang, Yipeng Zhang, Yuwei Zhou, Zeyang Zhang, Siao Tang, Wenwu Zhu | [Code](https://github.com/forchchch/disenstudio.github.io?tab=readme-ov-file) | ACMMM 2024 |
+| [**SSN: Soft Shadow Network for Image Compositing**](https://arxiv.org/abs/2007.08211) | Yichen Sheng, Jianming Zhang, Bedrich Benes | [Project Page](https://shengcn.github.io/SSN/) [Code](https://github.com/ShengCN/SSN_SoftShadowNet) | CVPR 2021 |
+
 
 **Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**
 [[Paper]](https://openreview.net/forum?id=u1cQYxRI1H)
@@ -344,6 +382,13 @@ This is the production process of traditional 2D animation. We will list these r
 [[Code]](https://github.com/ShengCN/SSN_SoftShadowNet)
 
 ### ✂️ Cutting (CT)
+
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward**](https://arxiv.org/abs/2209.12164v1) | Yunlong Tang, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng | [Code](https://github.com/yunlong10/Ads-1k) | ACCV 2022    |
+| [**Reframe Anything: LLM Agent for Open World Video Reframing**](https://arxiv.org/abs/2403.06070) | Jiawang Cao, Yongliang Wu, Weiheng Chi, Wenbo Zhu, Ziyue Su, Jay Wu | |              |
+| [**OpusClip**](https://www.opus.pro/)                                                            | OpusClip Team                                                                                      |                                                                                                     |              |
+
 
 **Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward** [ACCV 2022]\
 *Yunlong Tang, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng*\
