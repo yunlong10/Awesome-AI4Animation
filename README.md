@@ -90,6 +90,26 @@ This is the production process of traditional 2D animation. We will list these r
 
 ### 🖌️ Storyboarding
 
+| **Model/Paper**                                                                                  | **Authors/Team**                                                                                     | **Links**                                                                                              | **Venue**      |
+|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------|
+| [**StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization**](https://arxiv.org/abs/2412.07375) | Jinlu Zhang, Jiji Tang, Rongsheng Zhang, Tangjie Lv, Xiaoshuai Sun | [Code](https://github.com/Aria-Zhangjl/StoryWeaver) |              |
+| [**Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models**](https://arxiv.org/abs/2211.10950) | Xichen Pan, Pengda Qin, Yuhong Li, Hui Xue, Wenhu Chen | [Code](https://github.com/xichenpan/ARLDM) | WACV 2024 |
+| [**SEED-Story: Multimodal Long Story Generation with Large Language Model**](https://arxiv.org/abs/2407.08683) | Shuai Yang, Yuying Ge, Yang Li, Yukang Chen, Yixiao Ge, Ying Shan, Yingcong Chen | [Code](https://github.com/TencentARC/SEED-Story) [Dataset](https://huggingface.co/datasets/TencentARC/StoryStream) |              |
+| [**Make-A-Story: Visual Memory Conditioned Consistent Story Generation**](https://arxiv.org/abs/2211.13319) | Tanzila Rahman, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Shweta Mahajan, Leonid Sigal | [Code](https://github.com/ubc-vision/Make-A-Story) |              |
+| [**Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control**](https://arxiv.org/abs/2312.07549) | Sitong Su, Litao Guo, Lianli Gao, Heng Tao Shen, Jingkuan Song | |              |
+| [**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**](https://arxiv.org/abs/2307.06940) | Yingqing He, Menghan Xia, Haoxin Chen, Xiaodong Cun, Yuan Gong, Jinbo Xing, Yong Zhang, Xintao Wang, Chao Weng, Ying Shan, Qifeng Chen | [Project Page](https://ailab-cvc.github.io/Animate-A-Story/) [Code](https://github.com/AILab-CVC/Animate-A-Story) |              |
+| [**StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion**](https://arxiv.org/abs/2404.05979) | Ming Tao, Bing-Kun Bao, Hao Tang, Yaowei Wang, Changsheng Xu | [Code](https://github.com/tobran/StoryImager) | ECCV 2024 |
+| [**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**](https://arxiv.org/abs/2309.15091) | Han Lin, Abhay Zala, Jaemin Cho, Mohit Bansal | [Project Page](https://videodirectorgpt.github.io/) [Code](https://github.com/HL-hanlin/VideoDirectorGPT) | COLM 2024 |
+| [**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**](https://arxiv.org/abs/2408.13239) | Tao Wu, Yong Zhang, Xintao Wang, Xianpan Zhou, Guangcong Zheng, Zhongang Qi, Ying Shan, Xi Li | [Project Page](https://customcrafter.github.io/) [Code](https://github.com/WuTao-CS/CustomCrafter) | AAAI 2025 |
+| [**VideoStudio: Generating Consistent-Content and Multi-Scene Videos**](https://arxiv.org/abs/2401.01256v2) | Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei | [Project Page](https://vidstudio.github.io/) [Code](https://github.com/FuchenUSTC/VideoStudio) | ECCV 2024 |
+| [**Mind the Time: Temporally-Controlled Multi-Event Video Generation**](https://arxiv.org/abs/2412.05263) | Ziyi Wu, Aliaksandr Siarohin, Willi Menapace, Ivan Skorokhodov, Yuwei Fang, Varnith Chordia, Igor Gilitschenski, Sergey Tulyakov | [Project Page](https://mint-video.github.io/) |              |
+| [**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**](https://arxiv.org/abs/2411.16657) | Zun Wang, Jialu Li, Han Lin, Jaehong Yoon, Mohit Bansal | [Project Page](https://zunwang1.github.io/DreamRunner) [Code](https://github.com/wz0919/DreamRunner) |              |
+| [**Vlogger: Make Your Dream A Vlog**](https://arxiv.org/abs/2401.09414) | Shaobin Zhuang, Kunchang Li, Xinyuan Chen, Yaohui Wang, Ziwei Liu, Yu Qiao, Yali Wang | [Project Page](https://zhuangshaobin.github.io/Vlogger.github.io/) [Code](https://github.com/zhuangshaobin/Vlogger) | CVPR 2024 |
+| [**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**](https://arxiv.org/abs/2408.09787) | Yunxin Li, Haoyuan Shi, Baotian Hu, Longyue Wang, Jiashun Zhu, Jinyi Xu, Zhen Zhao, Min Zhang | [Code](https://github.com/HITsz-TMG/Anim-Director) | SIGGRAPH Asia 2024 |
+| [**Storyboarder.ai**](https://www.storyboarder.ai/) | | |              |
+| [**CogCartoon: Towards Practical Story Visualization**](https://arxiv.org/abs/2312.10718) | Zhongyang Zhu, Jie Tang | |              |
+
+
 **StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization** \
 *Jinlu Zhang, Jiji Tang, Rongsheng Zhang, Tangjie Lv, Xiaoshuai Sun* \
 [[Paper]](https://arxiv.org/abs/2412.07375)
