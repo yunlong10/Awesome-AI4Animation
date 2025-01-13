@@ -39,9 +39,8 @@ This is the production process of traditional 2D animation. We will list these r
 
 ### 📜 Scripting
 
-
-| **Model/Paper**                                                                                  | **Authors/Team**                                                                                     | **Links**                                             | **Venue**     |
-|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------|--------------|
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
 | [**HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing**](https://arxiv.org/abs/2406.11683) | Jing Chen, Xinyu Zhu, Cheng Yang, Chufan Shi, Yadong Xi, Yuxiang Zhang, Junjie Wang, Jiashu Pu, Rongsheng Zhang, Yujiu Yang, Tian Feng |                                                      |              |
 | [**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**](https://arxiv.org/abs/2403.05530) | Gemini Team Google                                                                                 |                                                      |              |
 | [**Claude 3.5 Sonnet**](https://www.anthropic.com/news/claude-3-5-sonnet)                          | Anthropic                                                                                          |                                                      |              |
@@ -78,6 +77,12 @@ This is the production process of traditional 2D animation. We will list these r
 [[Report]](https://arxiv.org/abs/2303.08774)
 
 ### 🎭 Setting
+
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2112.10752) | Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer | [Demo](https://huggingface.co/spaces/multimodalart/latentdiffusion) [Code](https://github.com/CompVis/latent-diffusion) | CVPR 2022     |
+| [**MidJourney**](https://www.midjourney.com/home)                                                | MidJourney Team                                                                                     |                                                                                                     |              |
+
 
 **High-Resolution Image Synthesis with Latent Diffusion Models** [CVPR 2022]\
 *Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer* \
