@@ -40,14 +40,15 @@ This is the production process of traditional 2D animation. We will list these r
 ### 📜 Scripting
 
 
-| **Model/Paper**                                        | **Authors/Team**                             | **Links**                                                                                          |
-|--------------------------------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing** | Jing Chen, Xinyu Zhu, Cheng Yang, Chufan Shi, Yadong Xi, Yuxiang Zhang, Junjie Wang, Jiashu Pu, Rongsheng Zhang, Yujiu Yang, Tian Feng | [Paper](https://arxiv.org/abs/2406.11683)                                                         |
-| **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context** | Gemini Team Google                        | [Paper](https://arxiv.org/abs/2403.05530)                                                        |
-| **Claude 3.5 Sonnet**                                  | Anthropic                                 | [Link](https://www.anthropic.com/news/claude-3-5-sonnet)                                          |
-| **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** | Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai | [Paper](https://arxiv.org/abs/2312.14238) [Code](https://github.com/OpenGVLab/InternVL)          |
-| **Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond** | Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou | [Paper](https://arxiv.org/abs/2308.12966) [Code](https://github.com/QwenLM/Qwen-VL)             |
-| **GPT-4**                                              | OpenAI                                    | [Report](https://arxiv.org/abs/2303.08774)                                                       |
+| **Model/Paper**                                                                                  | **Authors/Team**                                                                                     | **Links**                                             | **Venue**     |
+|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------|--------------|
+| [**HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing**](https://arxiv.org/abs/2406.11683) | Jing Chen, Xinyu Zhu, Cheng Yang, Chufan Shi, Yadong Xi, Yuxiang Zhang, Junjie Wang, Jiashu Pu, Rongsheng Zhang, Yujiu Yang, Tian Feng |                                                      |              |
+| [**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**](https://arxiv.org/abs/2403.05530) | Gemini Team Google                                                                                 |                                                      |              |
+| [**Claude 3.5 Sonnet**](https://www.anthropic.com/news/claude-3-5-sonnet)                          | Anthropic                                                                                          |                                                      |              |
+| [**InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks**](https://arxiv.org/abs/2312.14238) | Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai | [Code](https://github.com/OpenGVLab/InternVL)         | CVPR 2024    |
+| [**Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**](https://arxiv.org/abs/2308.12966) | Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou | [Code](https://github.com/QwenLM/Qwen-VL)             |              |
+| [**GPT-4**](https://arxiv.org/abs/2303.08774)                                                     | OpenAI                                                                                            |                                                      |              |
+
 
 
 
