@@ -21,7 +21,6 @@ This repository includes research, datasets, and other resources on AI for cel /
     - [Dubbing (DB)](#dubbing-db)
   - [Datasets](#datasets)
   - [Others](#others)
-  - [Related Repository](#related-repository)
 
 
 ## Process of Animation Production
@@ -218,5 +217,3 @@ This is the production process of traditional 2D animation. We will list these r
 *Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong*\
 [[Project Page]](https://ttwong12.github.io/papers/3dcel/3dcel.html)
 [[Paper]](https://ttwong12.github.io/papers/3dcel/3dcel.pdf)
-
-## Related Repository
