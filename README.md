@@ -274,17 +274,10 @@ This is the production process of traditional 2D animation. We will list these r
 
 ## Others
 
-**Globally Optimal Toon Tracking**\
-*Haichao Zhu, Xueting Liu, Tien-Tsin Wong, Pheng-Ann Heng*\
-[[Paper]](https://ttwong12.github.io/papers/toontrack/toontrack.pdf)
-[[Supplementary]](https://ttwong12.github.io/papers/toontrack/supp.pdf)
-[[Results Video]](https://ttwong12.github.io/papers/toontrack/result.mp4)
-[[Project Page]](https://ttwong12.github.io/papers/toontrack/toontrack.html)
-
-**Stereoscopizing Cel Animations**\
-*Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong*\
-[[Project Page]](https://ttwong12.github.io/papers/3dcel/3dcel.html)
-[[Paper]](https://ttwong12.github.io/papers/3dcel/3dcel.pdf)
+| **Model/Paper**                                   | **Authors/Team**                          | **Links**                                                                                          | **Venue** |
+|---------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|-----------|
+| [**Globally Optimal Toon Tracking**](https://ttwong12.github.io/papers/toontrack/toontrack.pdf) | Haichao Zhu, Xueting Liu, Tien-Tsin Wong, Pheng-Ann Heng | [Supplementary](https://ttwong12.github.io/papers/toontrack/supp.pdf) [Results Video](https://ttwong12.github.io/papers/toontrack/result.mp4) [Project Page](https://ttwong12.github.io/papers/toontrack/toontrack.html) |           |
+| [**Stereoscopizing Cel Animations**](https://ttwong12.github.io/papers/3dcel/3dcel.pdf)          | Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong | [Project Page](https://ttwong12.github.io/papers/3dcel/3dcel.html)                               |           |
 
 
 
