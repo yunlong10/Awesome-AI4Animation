@@ -174,6 +174,7 @@
         <td><img src="assets/05.gif"></td>
     </tr>
 </table>
+<center><p>From: <i>ToonCrafter: Generative Cartoon Interpolation</i></p><center>
 
 
 #### 🌈 Colorization
@@ -201,6 +202,7 @@
 
 
 <img src="assets/paintbucket-charactor.png">
+<center><p>From: <i>Learning Inclusion Matching for Animation Paint Bucket Colorization</i></p><center>
 
 ### 3️⃣ Post-Production
 
@@ -310,7 +312,7 @@
 
 
 <img src="assets/sakuga.png">
-
+<center><p>From: <i>Sakuga-42M Dataset: Scaling Up Cartoon Research</i></p><center>
 
 
 
