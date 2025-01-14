@@ -25,14 +25,14 @@
       <ul>
         <li>🛠️ <a href="#%EF%B8%8F-methods">Methods</a>
           <ul>
-            <li>1️⃣ <a href="#pre-production">Pre-production</a>
+            <li>1️⃣ <a href="#1%EF%B8%8F⃣-pre-production">Pre-production</a>
               <ul>
                 <li>📜 <a href="#-scripting">Scripting</a></li>
                 <li>🎭 <a href="#-setting">Setting</a></li>
                 <li>🖌️ <a href="#%EF%B8%8F-storyboarding">Storyboarding</a></li>
               </ul>
             </li>
-            <li>2️⃣ <a href="#production">Production</a>
+            <li>2️⃣ <a href="#2%EF%B8%8F⃣-production">Production</a>
               <ul>
                 <li>🗺️ <a href="#%EF%B8%8F-layout-lo">Layout (L/O)</a></li>
                 <li>🎞️ <a href="#%EF%B8%8F-keyframe-animation">Keyframe Animation</a></li>
@@ -40,7 +40,7 @@
                 <li>🌈 <a href="#-colorization">Colorization</a></li>
               </ul>
             </li>
-            <li>3️⃣ <a href="#post-production">Post-production</a>
+            <li>3️⃣ <a href="#3%EF%B8%8F⃣-post-production">Post-production</a>
               <ul>
                 <li>📷 <a href="#-compositing--photography">Compositing & Photography</a></li>
                 <li>✂️ <a href="#%EF%B8%8F-cutting-ct">Cutting (CT)</a></li>
