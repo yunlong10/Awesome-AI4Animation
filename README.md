@@ -22,7 +22,6 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <ul>
-        <li>🎥 <a href="#-process-of-animation-production">Process of Animation Production</a></li>
         <li>🛠️ <a href="#%EF%B8%8F-methods">Methods</a>
           <ul>
             <li>1️⃣ <a href="#pre-production">Pre-production</a>
