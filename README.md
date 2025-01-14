@@ -72,7 +72,7 @@
 
 ## 🛠️ Methods
 
-### Pre-production
+### 1️⃣ Pre-production
 
 #### 📜 Scripting
 
@@ -116,7 +116,7 @@
 | [**Storyboarder.ai**](https://www.storyboarder.ai/) | | |              |
 | [**CogCartoon: Towards Practical Story Visualization**](https://arxiv.org/abs/2312.10718) | Zhongyang Zhu, Jie Tang | |              |
 
-### Production
+### 2️⃣ Production
 
 #### 🗺️ Layout
 
@@ -198,7 +198,7 @@
 | [**Toona**](https://toona.io/)                                                                  | Toona Team                                                                                         |                                                                                                     |              |
 
 
-### Post-Production
+### 3️⃣ Post-Production
 
 #### 📷 Compositing & Photography
 
