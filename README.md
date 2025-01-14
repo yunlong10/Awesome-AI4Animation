@@ -200,6 +200,8 @@
 | [**Toona**](https://toona.io/)                                                                  | Toona Team                                                                                         |                                                                                                     |              |
 
 
+<img src="assets/paintbucket-charactor.png">
+
 ### 3️⃣ Post-Production
 
 #### 📷 Compositing & Photography
