@@ -259,7 +259,6 @@ This is the production process of traditional 2D animation. We will list these r
 | [**DrawingSpinUp: 3D Animation from Single Character Drawings**](https://arxiv.org/abs/2409.08615) | Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu | [Code](https://github.com/LordLiang/DrawingSpinUp) | Siggraph Asia 2024 |
 
 
-<img src="assets/sakuga.png">
 
 ## 📊 Datasets
 
@@ -279,8 +278,7 @@ This is the production process of traditional 2D animation. We will list these r
 | [**AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies**](https://arxiv.org/abs/2211.05709) | Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy | [Project & Dataset](https://lisiyao21.github.io/projects/AnimeRun) [Code](https://github.com/lisiyao21/AnimeRun) | NeurIPS 2022 |
 
 
-
-
+<img src="assets/sakuga.png">
 
 
 ## Others
