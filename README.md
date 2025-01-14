@@ -224,6 +224,12 @@ This is the production process of traditional 2D animation. We will list these r
 
 ### 🎞️ Cel-Animation Editing
 
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production**](https://arxiv.org/abs/2401.03499) | Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer | | TBA 2024     |
+| [**Scaling Concept With Text-Guided Diffusion Models**](https://arxiv.org/abs/2410.24151)        | Chao Huang, Susan Liang, Yunlong Tang, Yapeng Tian, Anurag Kumar, Chenliang Xu                      | [Project Page](https://wikichao.github.io/ScalingConcept/) [Code](https://github.com/WikiChao/ScalingConcept) |              |
+
+
 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** [TBA 2024]\
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
 [[Paper]](https://arxiv.org/abs/2401.03499)
@@ -236,6 +242,12 @@ This is the production process of traditional 2D animation. We will list these r
 
 ### 🎨 Cels Decomposition
 
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation**](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439) | Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu | [Code](https://lllyasviel.github.io/GitPageToonDecompose/) | ACM 2022     |
+| [**Generative Omnimatte: Learning to Decompose Video into Layers**](https://arxiv.org/abs/2411.16683) | Yao-Chih Lee, Erika Lu, Sarah Rumbley, Michal Geyer, Jia-Bin Huang, Tali Dekel, Forrester Cole | [Project Page](https://gen-omnimatte.github.io/) |              |
+
+
 **Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation** [ACM 2022]\
 *Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu*\
 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439)
@@ -247,6 +259,13 @@ This is the production process of traditional 2D animation. We will list these r
 [[Project Page]](https://gen-omnimatte.github.io/)
 
 ### 🏯 3D Assistance
+
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**Toonsynth: Example-based Synthesis of Hand-Colored Cartoon Animations**](https://dl.acm.org/doi/abs/10.1145/3197517.3201326) | M Dvorožnák, W Li, VG Kim, D Sýkora | | TOG 2018    |
+| [**Collaborative Neural Rendering using Anime Character Sheets**](https://arxiv.org/abs/2207.05378) | Zuzeng Lin, Ailin Huang, Zhewei Huang | [Code](https://github.com/megvii-research/IJCAI2023-CoNR) [Dataset](https://github.com/P2Oileen/CoNR_Dataset) | IJCAI 2023   |
+| [**DrawingSpinUp: 3D Animation from Single Character Drawings**](https://arxiv.org/abs/2409.08615) | Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu | [Code](https://github.com/LordLiang/DrawingSpinUp) | Siggraph Asia 2024 |
+
 
 **Toonsynth: Example-based Synthesis of Hand-Colored Cartoon Animations** [TOG 2018]\
 *M Dvorožnák, W Li, VG Kim, D Sýkora*\
