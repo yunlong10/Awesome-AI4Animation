@@ -20,8 +20,8 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <img src="assets/teaser.png" width="450">
+    <td style="vertical-align: top; padding-right: 10px;">
+      <img src="assets/teaser.png" width="550">
       <ul>
         <li>🛠️ <a href="#%EF%B8%8F-methods">Methods</a>
           <ul>
