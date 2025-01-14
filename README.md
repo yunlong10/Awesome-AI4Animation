@@ -240,15 +240,6 @@ This is the production process of traditional 2D animation. We will list these r
 | [**Generative Omnimatte: Learning to Decompose Video into Layers**](https://arxiv.org/abs/2411.16683) | Yao-Chih Lee, Erika Lu, Sarah Rumbley, Michal Geyer, Jia-Bin Huang, Tali Dekel, Forrester Cole | [Project Page](https://gen-omnimatte.github.io/) |              |
 
 
-**Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation** [ACM 2022]\
-*Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu*\
-[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439)
-[[Code]](https://lllyasviel.github.io/GitPageToonDecompose/)
-
-**Generative Omnimatte: Learning to Decompose Video into Layers** \
-*Yao-Chih Lee, Erika Lu, Sarah Rumbley, Michal Geyer, Jia-Bin Huang, Tali Dekel, Forrester Cole* \
-[[Paper]](https://arxiv.org/abs/2411.16683)
-[[Project Page]](https://gen-omnimatte.github.io/)
 
 ### 🏯 3D Assistance
 
