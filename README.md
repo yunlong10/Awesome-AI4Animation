@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <img src="assets/teaser.png" width="300">
+      <img src="assets/teaser.png" width="450">
       <ul>
         <li>🛠️ <a href="#%EF%B8%8F-methods">Methods</a>
           <ul>
