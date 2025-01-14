@@ -1,6 +1,17 @@
-# Awesome Research on AI for Animation
+# Awesome Gen AI for Animation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+### 🔥🔥🔥 [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)
+
+> *Yunlong Tang<sup>1</sup>, Junjia Guo<sup>1</sup>, Pinxin Liu<sup>1</sup>, Zhiyuan Wang<sup>2</sup>, Hang Hua<sup>1</sup>, Jia-Xing Zhong<sup>3</sup>, Yunzhong Xiao<sup>4</sup>, Chao Huang<sup>1</sup>, Luchuan Song<sup>1</sup>, Susan Liang<sup>1</sup>, Yizhi Song<sup>5</sup>, Liu He<sup>5</sup>, Jing Bi<sup>1,\*</sup>, Mingqian Feng<sup>1</sup>, Xinyang Li<sup>1</sup>, Zeliang Zhang<sup>1</sup>, Chenliang Xu<sup>1</sup>*  
+
+*<sup>1</sup>University of Rochester, <sup>2</sup>UCSB, <sup>3</sup>University of Oxford, <sup>4</sup>CMU, <sup>5</sup>Purdue University*
+
+
+<h5 align="center">  
+
+ **[Paper](https://arxiv.org/abs/2501.06250)** | **[Project Page](https://github.com/yunlong10/Awesome-AI4Animation)**
+
+</h5>
 
 This repository includes research, datasets, and other resources on AI for cel / cel-look / illust-look animation.
 
@@ -26,8 +37,6 @@ This repository includes research, datasets, and other resources on AI for cel /
   - 🏯 [3D Assistance](#-3d-assistance)
 - 📊 [Datasets](#-datasets)
 - 🔗 [Others](#others)
-- 📁 [Related Repository](#related-repository)
-
 
 
 
