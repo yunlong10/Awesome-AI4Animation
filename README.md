@@ -20,22 +20,25 @@
 ## 📖 Table of Contents
 - 🎥 [Process of Animation Production](#-process-of-animation-production)
 - 🛠️ [Methods](#%EF%B8%8F-methods)
-  - 📜 [Scripting](#-scripting)
-  - 🎭 [Setting](#-setting)
-  - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
-  - 🗺️ [Layout](#%EF%B8%8F-layout)
-  - 🎞️ [Keyframe Animation](#keyframe-animation)
-  - 🍴 [Inbetweening](#-inbetweening)
-  - 🌈 [Colorization](#-colorization)
-  - 📷 [Compositing & Photography](#-compositing--photography)
-  - ✂️ [Cutting (CT)](#%EF%B8%8F-cutting-ct)
-  - 🎶 [Music & Sound Effects](#-music--sound-effects)
-  - 🎙️ [After Record (AR) & Dubbing (DB)](#%EF%B8%8F-after-record-ar--dubbing-db)
-  - 🎞️ [Cel-Animation Editing](#%EF%B8%8F-cel-animation-editing)
-  - 🎨 [Cels Decomposition](#-cels-decomposition)
-  - 🏯 [3D Assistance](#-3d-assistance)
+  - 1️⃣ [Pre-production](#-pre-production)
+    - 📜 [Scripting](#-scripting)
+    - 🎭 [Setting](#-setting)
+    - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
+  - 2️⃣ [Production](#-production)
+    - 🗺️ [Layout](#%EF%B8%8F-layout)
+    - 🎞️ [Keyframe Animation](#keyframe-animation)
+    - 🍴 [Inbetweening](#-inbetweening)
+    - 🌈 [Colorization](#-colorization)
+  - 3️⃣ [Post-production](#-post-production)
+    - 📷 [Compositing & Photography](#-compositing--photography)
+    - ✂️ [Cutting (CT)](#%EF%B8%8F-cutting-ct)
+    - 🎶 [Music & Sound Effects](#-music--sound-effects)
+    - 🎙️ [After Record (AR) & Dubbing (DB)](#%EF%B8%8F-after-record-ar--dubbing-db)
+  - 🔗 [Others](#others)
+    - 🎞️ [Cel-Animation Editing](#%EF%B8%8F-cel-animation-editing)
+    - 🎨 [Cels Decomposition](#-cels-decomposition)
+    - 🏯 [3D Assistance](#-3d-assistance)
 - 📊 [Datasets](#-datasets)
-- 🔗 [Others](#others)
 
 
 
@@ -119,21 +122,7 @@ This is the production process of traditional 2D animation. We will list these r
 | [**Collaborative Neural Rendering using Anime Character Sheets**](https://arxiv.org/abs/2207.05378) | Zuzeng Lin, Ailin Huang, Zhewei Huang | [Code](https://github.com/megvii-research/IJCAI2023-CoNR) [Dataset](https://github.com/P2Oileen/CoNR_Dataset) | IJCAI 2023   |
 
 
-<table>
-    <tr>
-        <td><img src="assets/72109_125.mp4_00-00.png"></td>
-        <td><img src="assets/72109_125.mp4_00-01.png"></td>
-        <td><img src="assets/00.gif"></td>
-    </tr>
-    <tr>
-        <td><img src="assets/04.gif"></td>
-        <td><img src="assets/frame0001_05.png"></td>
-        <td><img src="assets/05.gif"></td>
-    </tr>
-</table>
-
-
-### 🍴 Inbetweening
+#### 🍴 Inbetweening
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -148,9 +137,21 @@ This is the production process of traditional 2D animation. We will list these r
 | [**Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings**](https://ieeexplore.ieee.org/document/8803506) | Rei Narita, Keigo Hirakawa, Kiyoharu Aizawa | | IEEE 2019    |
 | [**DiLight: Digital Light Table – Inbetweening for 2D Animations Using Guidelines**](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300390) | Leonardo Carvalho, Ricardo Marroquim, Emilio Vital Brazil | | Elsevier 2017 |
 
+<table>
+    <tr>
+        <td><img src="assets/72109_125.mp4_00-00.png"></td>
+        <td><img src="assets/72109_125.mp4_00-01.png"></td>
+        <td><img src="assets/00.gif"></td>
+    </tr>
+    <tr>
+        <td><img src="assets/04.gif"></td>
+        <td><img src="assets/frame0001_05.png"></td>
+        <td><img src="assets/05.gif"></td>
+    </tr>
+</table>
 
 
-### 🌈 Colorization
+#### 🌈 Colorization
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -263,7 +264,7 @@ This is the production process of traditional 2D animation. We will list these r
 
 
 
-### 📊 Datasets
+## 📊 Datasets
 
 | **Model/Paper**                                                                                  | **Authors/Team**                                                                                     | **Links**                                                                                              | **Venue**      |
 |--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------|
