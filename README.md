@@ -230,15 +230,7 @@ This is the production process of traditional 2D animation. We will list these r
 | [**Scaling Concept With Text-Guided Diffusion Models**](https://arxiv.org/abs/2410.24151)        | Chao Huang, Susan Liang, Yunlong Tang, Yapeng Tian, Anurag Kumar, Chenliang Xu                      | [Project Page](https://wikichao.github.io/ScalingConcept/) [Code](https://github.com/WikiChao/ScalingConcept) |              |
 
 
-**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** [TBA 2024]\
-*Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
-[[Paper]](https://arxiv.org/abs/2401.03499)
 
-**Scaling Concept With Text-Guided Diffusion Models** \
-*Chao Huang, Susan Liang, Yunlong Tang, Yapeng Tian, Anurag Kumar, Chenliang Xu*\
-[[paper]](https://arxiv.org/abs/2410.24151)
-[[Project Page]](https://wikichao.github.io/ScalingConcept/)
-[[Code]](https://github.com/WikiChao/ScalingConcept)
 
 ### 🎨 Cels Decomposition
 
@@ -267,21 +259,7 @@ This is the production process of traditional 2D animation. We will list these r
 | [**DrawingSpinUp: 3D Animation from Single Character Drawings**](https://arxiv.org/abs/2409.08615) | Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu | [Code](https://github.com/LordLiang/DrawingSpinUp) | Siggraph Asia 2024 |
 
 
-**Toonsynth: Example-based Synthesis of Hand-Colored Cartoon Animations** [TOG 2018]\
-*M Dvorožnák, W Li, VG Kim, D Sýkora*\
-[[Paper]](https://dl.acm.org/doi/abs/10.1145/3197517.3201326)
-
-**Collaborative Neural Rendering using Anime Character Sheets** [IJCAI 2023] \
-*Zuzeng Lin, Ailin Huang, Zhewei Huang* \
-[[Paper]](https://arxiv.org/abs/2207.05378)
-[[Code]](https://github.com/megvii-research/IJCAI2023-CoNR)
-[[dataset]](https://github.com/P2Oileen/CoNR_Dataset)
-
-**DrawingSpinUp: 3D Animation from Single Character Drawings** [Siggraph Asia 2024] \
-*Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu*\
-[[Paper]](https://arxiv.org/abs/2409.08615)
-[[Code]](https://github.com/LordLiang/DrawingSpinUp)
-
+<img src="assets/sakuga.png">
 
 ## 📊 Datasets
 
@@ -301,87 +279,7 @@ This is the production process of traditional 2D animation. We will list these r
 | [**AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies**](https://arxiv.org/abs/2211.05709) | Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy | [Project & Dataset](https://lisiyao21.github.io/projects/AnimeRun) [Code](https://github.com/lisiyao21/AnimeRun) | NeurIPS 2022 |
 
 
-<!--### Comprehension, Generation-->
-**Sakuga-42M Dataset: Scaling Up Cartoon Research** [arXiv 2024]\
-*Zhenglin Pan, Yu Zhu, Yuxuan Mu*\
-[[Paper]](https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view)
-[[Dataset]](https://huggingface.co/datasets/aidenpan/s_clips-v1.0)\
-<img src="assets/sakuga.png">
 
-**Anisora: Exploring the frontiers of animation video generation in the sora era** \
-*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Xinwen Zhang, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
-[[Paper]](https://arxiv.org/pdf/2412.10255)
-[[Code]](https://github.com/bilibili/Index-anisora)
-
-<!--### Dubbing-->
-**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video** [ICASSP 2024]\
-*Kevin Cai, Chonghua Liu, David M. Chan*\
-[[Paper]](https://arxiv.org/pdf/2401.05314)
-[[Code]](https://github.com/davidmchan/Anim400K)
-[[Dataset]](https://huggingface.co/datasets/davidchan/anim400k)
-
-**V2C: Visual Voice Cloning** [CVPR 2022]\
-*Qi Chen, Yuanqing Li, Yuankai Qi, Jiaqiu Zhou, Mingkui Tan, Qi Wu*\
-[[Paper]](https://arxiv.org/abs/2111.12890)
-[[Code]](https://github.com/chenqi008/V2C)
-
-<!--### Compositing, Photography-->
-**DoveNet: Deep Image Harmonization via Domain Verification** [CVPR 2020]\
-*Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang*\
-[[Paper]](https://arxiv.org/abs/1911.13239)
-[[Code]](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4)
-[[Demo]](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/)
-[[Dataset(Baidu Cloud(access code: kqz3))]](https://pan.baidu.com/s/1xEN0Xrv_MbuKT0ZqsipeEg)
-[[Dataset(OneDrive)]](https://1drv.ms/f/s!AohNSvvkuxZmgTHOraRzo5-X3nMp?e=bQQKkR)
-
-**SSH: A Self-Supervised Framework for Image Harmonization** [ICCV 2021]\
-*Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang*\
-[[Paper]](https://arxiv.org/abs/2108.06805)
-[[Code]](https://github.com/VITA-Group/SSHarmonization)
-[[Dataset]](https://drive.google.com/file/d/1jBx-DBtRX8GaqMvMv-CZutK4jn9tz-fT/view)
-
-**Intrinsic Image Harmonization** [CVPR 2021]\
-*Zonghui Guo, Haiyong Zheng, Yufeng Jiang, Zhaorui Gu, Bing Zheng*\
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Intrinsic_Image_Harmonization_CVPR_2021_paper.pdf)
-[[Code]](https://github.com/zhenglab/IntrinsicHarmony)
-[[Dataset(Baidu Cloud(access code: akbi))]](https://pan.baidu.com/s/1DR600XJFhm8lqfHZ6mOU_A)
-[[Dataset(Google Drive)]](https://drive.google.com/file/d/1-pa_9BNgIkuR0j1gcCxh8GI3XSWZN0e7/view?usp=sharing)
-
-**Alchemist: Parametric Control of Material Properties with Diffusion Models** [CVPR 2024]\
-*Prafull Sharma, Varun Jampani, Yuanzhen Li, Xuhui Jia, Dmitry Lagun, Fredo Durand, William T. Freeman, Mark Matthews*\
-[[Paper]](https://arxiv.org/abs/2312.02970)
-[[Project Page]](https://www.prafullsharma.net/alchemist/)
-
-<!--### Colorization-->
-**Learning Inclusion Matching for Animation Paint Bucket Colorization** [CVPR 2024]\
-*Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
-[[Paper]](https://arxiv.org/abs/2403.18342)
-[[Project]](https://ykdai.github.io/projects/InclusionMatching)
-[[Demo]](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)
-[[Code]](https://github.com/ykdai/BasicPBC)
-[[Dataset]](https://github.com/ykdai/BasicPBC/tree/main/dataset)
-
-<!--### Inbetweening-->
-**Deep Animation Video Interpolation in the Wild** [CVPR 2021]\
-*Li Siyao, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu*\
-[[Paper]](https://arxiv.org/pdf/2104.02495)
-[[Code]](https://github.com/lisiyao21/AnimeInterp/)
-[[Data (Google Drive)]](https://drive.google.com/file/d/1XBDuiEgdd6c0S4OXLF4QvgSn_XNPwc-g/view) 
-[[Data (OneDrive)]](https://entuedu-my.sharepoint.com/:u:/g/personal/siyao002_e_ntu_edu_sg/EY3SG0-IajxKj9HMPz__zOMBvyJdrA-SlwpyHYFkDsQtng?e=q7nGlu)
-[[Video Demo]](https://www.youtube.com/watch?v=2bbujT-ZXr8)
-
-**Deep Geometrized Cartoon Line Inbetweening** [ICCV 2023]\
-*Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
-[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf)
-[[Demo]](https://www.youtube.com/watch?v=iUF-LsqFKpI&feature=youtu.be)
-[[Code]](https://github.com/lisiyao21/AnimeInbet)
-[[Dataset]](https://drive.google.com/file/d/1SNRGajIECxNwRp6ZJ0IlY7AEl2mRm2DR/view)
-
-**AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies** [NeurIPS 2022]\
-*Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy*\
-[[Paper]](https://arxiv.org/abs/2211.05709)
-[[Project & Dataset]](https://lisiyao21.github.io/projects/AnimeRun)
-[[Code]](https://github.com/lisiyao21/AnimeRun)
 
 
 
