@@ -46,7 +46,9 @@ This is the production process of traditional 2D animation. We will list these r
 
 ## 🛠️ Methods
 
-### 📜 Scripting
+### Pre-production
+
+#### 📜 Scripting
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -59,7 +61,7 @@ This is the production process of traditional 2D animation. We will list these r
 
 
 
-### 🎭 Setting
+#### 🎭 Setting
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -67,7 +69,7 @@ This is the production process of traditional 2D animation. We will list these r
 | [**MidJourney**](https://www.midjourney.com/home)                                                | MidJourney Team                                                                                     |                                                                                                     |              |
 
 
-### 🖌️ Storyboarding
+#### 🖌️ Storyboarding
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -88,9 +90,9 @@ This is the production process of traditional 2D animation. We will list these r
 | [**Storyboarder.ai**](https://www.storyboarder.ai/) | | |              |
 | [**CogCartoon: Towards Practical Story Visualization**](https://arxiv.org/abs/2312.10718) | Zhongyang Zhu, Jie Tang | |              |
 
+### Production
 
-
-### 🗺️ Layout
+#### 🗺️ Layout
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -105,7 +107,7 @@ This is the production process of traditional 2D animation. We will list these r
 
 
 
-### 🎞️ Keyframe Animation
+#### 🎞️ Keyframe Animation
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -115,63 +117,6 @@ This is the production process of traditional 2D animation. We will list these r
 | [**Animate-X: Universal Character Image Animation with Enhanced Motion Representation**](https://arxiv.org/abs/2410.10306) | Shuai Tan, Biao Gong, Xiang Wang, Shiwei Zhang, Dandan Zheng, Ruobing Zheng, Kecheng Zheng, Jingdong Chen, Ming Yang | [Code](https://github.com/antgroup/animate-x) |              |
 | [**MikuDance: Animating Character Art with Mixed Motion Dynamics**](https://arxiv.org/abs/2411.08656) | Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu | [Project Page](https://kebii.github.io/MikuDance/) [Code](https://github.com/Kebii/MikuDance) |              |
 | [**Collaborative Neural Rendering using Anime Character Sheets**](https://arxiv.org/abs/2207.05378) | Zuzeng Lin, Ailin Huang, Zhewei Huang | [Code](https://github.com/megvii-research/IJCAI2023-CoNR) [Dataset](https://github.com/P2Oileen/CoNR_Dataset) | IJCAI 2023   |
-
-
-### 📷 Compositing & Photography
-
-| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
-|--------------------------------|--------------------------------|----------|----------|
-| [**Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**](https://openreview.net/forum?id=u1cQYxRI1H) | | |              |
-| [**DoveNet: Deep Image Harmonization via Domain Verification**](https://arxiv.org/abs/1911.13239) | Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang | [Code](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) [Demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) [Dataset(Baidu Cloud(access code: kqz3))](https://pan.baidu.com/s/1xEN0Xrv_MbuKT0ZqsipeEg) [Dataset(OneDrive)](https://1drv.ms/f/s!AohNSvvkuxZmgTHOraRzo5-X3nMp?e=bQQKkR) | CVPR 2020 |
-| [**High-Resolution Image Harmonization via Collaborative Dual Transformations**](https://arxiv.org/abs/2109.06671) | Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang | [Code](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization) | CVPR 2022     |
-| [**PCT-Net: Full Resolution Image Harmonization Using Pixel-Wise Color Transformations**](https://openaccess.thecvf.com/content/CVPR2023/papers/Guerreiro_PCT-Net_Full_Resolution_Image_Harmonization_Using_Pixel-Wise_Color_Transformations_CVPR_2023_paper.pdf) | Julian Jorge Andrade Guerreiro, Mitsuru Nakazawa, Björn Stenger | [Code](https://github.com/rakutentech/PCT-Net-Image-Harmonization/) | CVPR 2023 |
-| [**SSH: A Self-Supervised Framework for Image Harmonization**](https://arxiv.org/abs/2108.06805) | Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang | [Code](https://github.com/VITA-Group/SSHarmonization) | ICCV 2021 |
-| [**Thinking Outside the BBox: Unconstrained Generative Object Compositing**](https://arxiv.org/abs/2409.04559) | Gemma Canet Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim | | ECCV 2024 |
-| [**Dr.Bokeh: DiffeRentiable Occlusion-aware Bokeh Rendering**](https://arxiv.org/abs/2308.08843) | Yichen Sheng, Zixun Yu, Lu Ling, Zhiwen Cao, Cecilia Zhang, Xin Lu, Ke Xian, Haiting Lin, Bedrich Benes | [Code](https://github.com/ShengCN/DrBokeh-Src) |              |
-| [**Floating No More: Object-Ground Reconstruction from a Single Image**](https://arxiv.org/abs/2407.18914) | Yunze Man, Yichen Sheng, Jianming Zhang, Liang-Yan Gui, Yu-Xiong Wang | [Project Page](https://yunzeman.github.io/ORG/) |              |
-| [**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**](https://arxiv.org/abs/2403.18818) | Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen | [Project Page](https://objectdrop.github.io/) |              |
-| [**Alchemist: Parametric Control of Material Properties with Diffusion Models**](https://arxiv.org/abs/2312.02970) | Prafull Sharma, Varun Jampani, Yuanzhen Li, Xuhui Jia, Dmitry Lagun, Fredo Durand, William T. Freeman, Mark Matthews | [Project Page](https://www.prafullsharma.net/alchemist/) | CVPR 2024 |
-| [**DisenStudio: Customized Multi-Subject Text-to-Video Generation with Disentangled Spatial Control**](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2024_DisenStudio%20Customized%20Multi-Subject%20Text-to-Video%20Generation%20with%20Disentangled%20Spatial%20Control.pdf) | Hong Chen, Xin Wang, Yipeng Zhang, Yuwei Zhou, Zeyang Zhang, Siao Tang, Wenwu Zhu | [Code](https://github.com/forchchch/disenstudio.github.io?tab=readme-ov-file) | ACMMM 2024 |
-| [**SSN: Soft Shadow Network for Image Compositing**](https://arxiv.org/abs/2007.08211) | Yichen Sheng, Jianming Zhang, Bedrich Benes | [Project Page](https://shengcn.github.io/SSN/) [Code](https://github.com/ShengCN/SSN_SoftShadowNet) | CVPR 2021 |
-
-
-
-### ✂️ Cutting (CT)
-
-| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
-|--------------------------------|--------------------------------|----------|----------|
-| [**Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward**](https://arxiv.org/abs/2209.12164v1) | Yunlong Tang, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng | [Code](https://github.com/yunlong10/Ads-1k) | ACCV 2022    |
-| [**Reframe Anything: LLM Agent for Open World Video Reframing**](https://arxiv.org/abs/2403.06070) | Jiawang Cao, Yongliang Wu, Weiheng Chi, Wenbo Zhu, Ziyue Su, Jay Wu | |              |
-| [**OpusClip**](https://www.opus.pro/)                                                            | OpusClip Team                                                                                      |                                                                                                     |              |
-
-
-
-### 🎶 Music & Sound Effects
-
-| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
-|--------------------------------|--------------------------------|----------|----------|
-| [**Foley Music: Learning to Generate Music from Videos**](https://arxiv.org/abs/2007.10984)       | Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, Antonio Torralba                          | [Code](https://github.com/chuangg/Foley-Music)                                                       | ECCV 2020     |
-| [**Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model**](https://arxiv.org/abs/2311.00968) | | [Demo](https://huggingface.co/spaces/amaai-lab/video2music) [Project Page](https://amaai-lab.github.io/Video2Music/) [Code](https://github.com/amaai-lab/video2music) [Dataset](https://zenodo.org/records/10057093) |              |
-| [**V2Meow: Meowing to the Visual Beat via Video-to-Music Generation**](https://arxiv.org/abs/2305.06594) | Kun Su, Judith Yue Li, Qingqing Huang, Dima Kuzmin, Joonseok Lee, Chris Donahue, Fei Sha, Aren Jansen, Yu Wang, Mauro Verzetti, Timo I. Denk | [Project Page](https://google-research.github.io/noise2music/v2meow/) | AAAI 2024     |
-| [**MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models**](https://arxiv.org/abs/2406.04673) | Sanjoy Chowdhury, Sayan Nag, K J Joseph, Balaji Vasan Srinivasan, Dinesh Manocha | [Project Page](https://schowdhury671.github.io/melfusion_cvpr2024/) [Code](https://github.com/schowdhury671/melfusion/tree/main) [Dataset](https://umd0-my.sharepoint.com/personal/sanjoyc_umd_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsanjoyc%5Fumd%5Fedu%2FDocuments%2FMeLFusion%20datasets&ga=1) | CVPR 2024     |
-| [**VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling**](https://arxiv.org/abs/2406.04321) | Zeyue Tian, Zhaoyang Liu, Ruibin Yuan, Jiahao Pan, Qifeng Liu, Xu Tan, Qifeng Chen, Wei Xue, Yike Guo | [Code](https://github.com/ZeyueT/VidMuse/) |              |
-| [**Taming Visually Guided Sound Generation**](https://arxiv.org/abs/2110.08791) | Vladimir Iashin, Esa Rahtu | [Project Page](https://v-iashin.github.io/SpecVQGAN) [Demo](https://colab.research.google.com/drive/1pxTIMweAKApJZ3ZFqyBee3HtMqFpnwQ0?usp=sharing) [Code](https://github.com/v-iashin/SpecVQGAN) | BMVC 2021     |
-| [**I Hear Your True Colors: Image Guided Audio Generation**](https://arxiv.org/abs/2211.03089)    | Roy Sheffer, Yossi Adi                                                                               | [Project Page](https://pages.cs.huji.ac.il/adiyoss-lab/im2wav/) [Code](https://github.com/RoySheffer/im2wav) | ICASSP 2023   |
-| [**FoleyGen: Visually-Guided Audio Generation**](https://arxiv.org/abs/2309.10537)                | Xinhao Mei, Varun Nagaraja, Gael Le Lan, Zhaoheng Ni, Ernie Chang, Yangyang Shi, Vikas Chandra      | [Project Page](https://xinhaomei.github.io/foleygen_demo/) |              |
-| [**Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2306.17203) | Simian Luo, Chuanhao Yan, Chenxu Hu, Hang Zhao | [Project Page](https://diff-foley.github.io/) [Code](https://github.com/luosiallen/Diff-Foley) | NeurIPS 2023 |
-| [**Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos**](https://arxiv.org/abs/2406.09272) | Changan Chen, Puyuan Peng, Ami Baid, Zihui Xue, Wei-Ning Hsu, David Harwath, Kristen Grauman | [Project Page](https://vision.cs.utexas.edu/projects/action2sound/) [Code](https://github.com/ChanganVR/action2sound) | ECCV 2024     |
-
-
-### 🎙️ After Record (AR) & Dubbing (DB)
-
-| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
-|--------------------------------|--------------------------------|----------|----------|
-| [**StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**](https://arxiv.org/abs/2402.12636) | Gaoxiang Cong, Yuankai Qi, Liang Li, Amin Beheshti, Zhedong Zhang, Anton van den Hengel, Ming-Hsuan Yang, Chenggang Yan, Qingming Huang | [Code](https://github.com/GalaxyCong/StyleDubber) | ACL 2024 |
-| [**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**](https://arxiv.org/pdf/2401.05314) | Kevin Cai, Chonghua Liu, David M. Chan | [Code](https://github.com/davidmchan/Anim400K) [Dataset](https://huggingface.co/datasets/davidchan/anim400k) | ICASSP 2024 |
-| [**EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing**](https://arxiv.org/abs/2412.08988) | Gaoxiang Cong, Jiadong Pan, Liang Li, Yuankai Qi, Yuxin Peng, Anton van den Hengel, Jian Yang, Qingming Huang | [Project Page & Demo](https://galaxycong.github.io/EmoDub/) |              |
-| [**From Speaker to Dubber: Movie Dubbing with Prosody and Duration Consistency Learning**](https://dl.acm.org/doi/10.1145/3664647.3680777) | Zhedong Zhang, Liang Li, Gaoxiang Cong, Haibing Yin, Yuhan Gao, Chenggang Yan, Anton van den Hengel, Yuankai Qi | [Code](https://github.com/ZZDoog/Speaker2Dubber/tree/main) | ACM MM 2024 |
-| [**Learning to Dub Movies via Hierarchical Prosody Models**](https://arxiv.org/abs/2212.04054) | Gaoxiang Cong, Liang Li, Yuankai Qi, Zhengjun Zha, Qi Wu, Wenyu Wang, Bin Jiang, Ming-Hsuan Yang, Qingming Huang | [Code](https://github.com/GalaxyCong/HPMDubbing) | CVPR 2023 |
-| [**V2C: Visual Voice Cloning**](https://arxiv.org/abs/2111.12890) | Qi Chen, Yuanqing Li, Yuankai Qi, Jiaqiu Zhou, Mingkui Tan, Qi Wu | [Code](https://github.com/chenqi008/V2C) | CVPR 2022 |
 
 
 <table>
@@ -229,8 +174,69 @@ This is the production process of traditional 2D animation. We will list these r
 | [**Toona**](https://toona.io/)                                                                  | Toona Team                                                                                         |                                                                                                     |              |
 
 
+### Post-Production
 
-### 🎞️ Cel-Animation Editing
+#### 📷 Compositing & Photography
+
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**](https://openreview.net/forum?id=u1cQYxRI1H) | | |              |
+| [**DoveNet: Deep Image Harmonization via Domain Verification**](https://arxiv.org/abs/1911.13239) | Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang | [Code](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) [Demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) [Dataset(Baidu Cloud(access code: kqz3))](https://pan.baidu.com/s/1xEN0Xrv_MbuKT0ZqsipeEg) [Dataset(OneDrive)](https://1drv.ms/f/s!AohNSvvkuxZmgTHOraRzo5-X3nMp?e=bQQKkR) | CVPR 2020 |
+| [**High-Resolution Image Harmonization via Collaborative Dual Transformations**](https://arxiv.org/abs/2109.06671) | Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang | [Code](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization) | CVPR 2022     |
+| [**PCT-Net: Full Resolution Image Harmonization Using Pixel-Wise Color Transformations**](https://openaccess.thecvf.com/content/CVPR2023/papers/Guerreiro_PCT-Net_Full_Resolution_Image_Harmonization_Using_Pixel-Wise_Color_Transformations_CVPR_2023_paper.pdf) | Julian Jorge Andrade Guerreiro, Mitsuru Nakazawa, Björn Stenger | [Code](https://github.com/rakutentech/PCT-Net-Image-Harmonization/) | CVPR 2023 |
+| [**SSH: A Self-Supervised Framework for Image Harmonization**](https://arxiv.org/abs/2108.06805) | Yifan Jiang, He Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang | [Code](https://github.com/VITA-Group/SSHarmonization) | ICCV 2021 |
+| [**Thinking Outside the BBox: Unconstrained Generative Object Compositing**](https://arxiv.org/abs/2409.04559) | Gemma Canet Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim | | ECCV 2024 |
+| [**Dr.Bokeh: DiffeRentiable Occlusion-aware Bokeh Rendering**](https://arxiv.org/abs/2308.08843) | Yichen Sheng, Zixun Yu, Lu Ling, Zhiwen Cao, Cecilia Zhang, Xin Lu, Ke Xian, Haiting Lin, Bedrich Benes | [Code](https://github.com/ShengCN/DrBokeh-Src) |              |
+| [**Floating No More: Object-Ground Reconstruction from a Single Image**](https://arxiv.org/abs/2407.18914) | Yunze Man, Yichen Sheng, Jianming Zhang, Liang-Yan Gui, Yu-Xiong Wang | [Project Page](https://yunzeman.github.io/ORG/) |              |
+| [**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**](https://arxiv.org/abs/2403.18818) | Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen | [Project Page](https://objectdrop.github.io/) |              |
+| [**Alchemist: Parametric Control of Material Properties with Diffusion Models**](https://arxiv.org/abs/2312.02970) | Prafull Sharma, Varun Jampani, Yuanzhen Li, Xuhui Jia, Dmitry Lagun, Fredo Durand, William T. Freeman, Mark Matthews | [Project Page](https://www.prafullsharma.net/alchemist/) | CVPR 2024 |
+| [**DisenStudio: Customized Multi-Subject Text-to-Video Generation with Disentangled Spatial Control**](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2024_DisenStudio%20Customized%20Multi-Subject%20Text-to-Video%20Generation%20with%20Disentangled%20Spatial%20Control.pdf) | Hong Chen, Xin Wang, Yipeng Zhang, Yuwei Zhou, Zeyang Zhang, Siao Tang, Wenwu Zhu | [Code](https://github.com/forchchch/disenstudio.github.io?tab=readme-ov-file) | ACMMM 2024 |
+| [**SSN: Soft Shadow Network for Image Compositing**](https://arxiv.org/abs/2007.08211) | Yichen Sheng, Jianming Zhang, Bedrich Benes | [Project Page](https://shengcn.github.io/SSN/) [Code](https://github.com/ShengCN/SSN_SoftShadowNet) | CVPR 2021 |
+
+
+
+#### ✂️ Cutting (CT)
+
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward**](https://arxiv.org/abs/2209.12164v1) | Yunlong Tang, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng | [Code](https://github.com/yunlong10/Ads-1k) | ACCV 2022    |
+| [**Reframe Anything: LLM Agent for Open World Video Reframing**](https://arxiv.org/abs/2403.06070) | Jiawang Cao, Yongliang Wu, Weiheng Chi, Wenbo Zhu, Ziyue Su, Jay Wu | |              |
+| [**OpusClip**](https://www.opus.pro/)                                                            | OpusClip Team                                                                                      |                                                                                                     |              |
+
+
+
+#### 🎶 Music & Sound Effects
+
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**Foley Music: Learning to Generate Music from Videos**](https://arxiv.org/abs/2007.10984)       | Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, Antonio Torralba                          | [Code](https://github.com/chuangg/Foley-Music)                                                       | ECCV 2020     |
+| [**Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model**](https://arxiv.org/abs/2311.00968) | | [Demo](https://huggingface.co/spaces/amaai-lab/video2music) [Project Page](https://amaai-lab.github.io/Video2Music/) [Code](https://github.com/amaai-lab/video2music) [Dataset](https://zenodo.org/records/10057093) |              |
+| [**V2Meow: Meowing to the Visual Beat via Video-to-Music Generation**](https://arxiv.org/abs/2305.06594) | Kun Su, Judith Yue Li, Qingqing Huang, Dima Kuzmin, Joonseok Lee, Chris Donahue, Fei Sha, Aren Jansen, Yu Wang, Mauro Verzetti, Timo I. Denk | [Project Page](https://google-research.github.io/noise2music/v2meow/) | AAAI 2024     |
+| [**MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models**](https://arxiv.org/abs/2406.04673) | Sanjoy Chowdhury, Sayan Nag, K J Joseph, Balaji Vasan Srinivasan, Dinesh Manocha | [Project Page](https://schowdhury671.github.io/melfusion_cvpr2024/) [Code](https://github.com/schowdhury671/melfusion/tree/main) [Dataset](https://umd0-my.sharepoint.com/personal/sanjoyc_umd_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsanjoyc%5Fumd%5Fedu%2FDocuments%2FMeLFusion%20datasets&ga=1) | CVPR 2024     |
+| [**VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling**](https://arxiv.org/abs/2406.04321) | Zeyue Tian, Zhaoyang Liu, Ruibin Yuan, Jiahao Pan, Qifeng Liu, Xu Tan, Qifeng Chen, Wei Xue, Yike Guo | [Code](https://github.com/ZeyueT/VidMuse/) |              |
+| [**Taming Visually Guided Sound Generation**](https://arxiv.org/abs/2110.08791) | Vladimir Iashin, Esa Rahtu | [Project Page](https://v-iashin.github.io/SpecVQGAN) [Demo](https://colab.research.google.com/drive/1pxTIMweAKApJZ3ZFqyBee3HtMqFpnwQ0?usp=sharing) [Code](https://github.com/v-iashin/SpecVQGAN) | BMVC 2021     |
+| [**I Hear Your True Colors: Image Guided Audio Generation**](https://arxiv.org/abs/2211.03089)    | Roy Sheffer, Yossi Adi                                                                               | [Project Page](https://pages.cs.huji.ac.il/adiyoss-lab/im2wav/) [Code](https://github.com/RoySheffer/im2wav) | ICASSP 2023   |
+| [**FoleyGen: Visually-Guided Audio Generation**](https://arxiv.org/abs/2309.10537)                | Xinhao Mei, Varun Nagaraja, Gael Le Lan, Zhaoheng Ni, Ernie Chang, Yangyang Shi, Vikas Chandra      | [Project Page](https://xinhaomei.github.io/foleygen_demo/) |              |
+| [**Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2306.17203) | Simian Luo, Chuanhao Yan, Chenxu Hu, Hang Zhao | [Project Page](https://diff-foley.github.io/) [Code](https://github.com/luosiallen/Diff-Foley) | NeurIPS 2023 |
+| [**Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos**](https://arxiv.org/abs/2406.09272) | Changan Chen, Puyuan Peng, Ami Baid, Zihui Xue, Wei-Ning Hsu, David Harwath, Kristen Grauman | [Project Page](https://vision.cs.utexas.edu/projects/action2sound/) [Code](https://github.com/ChanganVR/action2sound) | ECCV 2024     |
+
+
+#### 🎙️ After Record (AR) & Dubbing (DB)
+
+| **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
+|--------------------------------|--------------------------------|----------|----------|
+| [**StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing**](https://arxiv.org/abs/2402.12636) | Gaoxiang Cong, Yuankai Qi, Liang Li, Amin Beheshti, Zhedong Zhang, Anton van den Hengel, Ming-Hsuan Yang, Chenggang Yan, Qingming Huang | [Code](https://github.com/GalaxyCong/StyleDubber) | ACL 2024 |
+| [**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**](https://arxiv.org/pdf/2401.05314) | Kevin Cai, Chonghua Liu, David M. Chan | [Code](https://github.com/davidmchan/Anim400K) [Dataset](https://huggingface.co/datasets/davidchan/anim400k) | ICASSP 2024 |
+| [**EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing**](https://arxiv.org/abs/2412.08988) | Gaoxiang Cong, Jiadong Pan, Liang Li, Yuankai Qi, Yuxin Peng, Anton van den Hengel, Jian Yang, Qingming Huang | [Project Page & Demo](https://galaxycong.github.io/EmoDub/) |              |
+| [**From Speaker to Dubber: Movie Dubbing with Prosody and Duration Consistency Learning**](https://dl.acm.org/doi/10.1145/3664647.3680777) | Zhedong Zhang, Liang Li, Gaoxiang Cong, Haibing Yin, Yuhan Gao, Chenggang Yan, Anton van den Hengel, Yuankai Qi | [Code](https://github.com/ZZDoog/Speaker2Dubber/tree/main) | ACM MM 2024 |
+| [**Learning to Dub Movies via Hierarchical Prosody Models**](https://arxiv.org/abs/2212.04054) | Gaoxiang Cong, Liang Li, Yuankai Qi, Zhengjun Zha, Qi Wu, Wenyu Wang, Bin Jiang, Ming-Hsuan Yang, Qingming Huang | [Code](https://github.com/GalaxyCong/HPMDubbing) | CVPR 2023 |
+| [**V2C: Visual Voice Cloning**](https://arxiv.org/abs/2111.12890) | Qi Chen, Yuanqing Li, Yuankai Qi, Jiaqiu Zhou, Mingkui Tan, Qi Wu | [Code](https://github.com/chenqi008/V2C) | CVPR 2022 |
+
+
+### Others
+
+
+#### 🎞️ Cel-Animation Editing
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -239,8 +245,7 @@ This is the production process of traditional 2D animation. We will list these r
 
 
 
-
-### 🎨 Cels Decomposition
+#### 🎨 Cels Decomposition
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -248,8 +253,7 @@ This is the production process of traditional 2D animation. We will list these r
 | [**Generative Omnimatte: Learning to Decompose Video into Layers**](https://arxiv.org/abs/2411.16683) | Yao-Chih Lee, Erika Lu, Sarah Rumbley, Michal Geyer, Jia-Bin Huang, Tali Dekel, Forrester Cole | [Project Page](https://gen-omnimatte.github.io/) |              |
 
 
-
-### 🏯 3D Assistance
+#### 🏯 3D Assistance
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
@@ -259,7 +263,7 @@ This is the production process of traditional 2D animation. We will list these r
 
 
 
-## 📊 Datasets
+### 📊 Datasets
 
 | **Model/Paper**                                                                                  | **Authors/Team**                                                                                     | **Links**                                                                                              | **Venue**      |
 |--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------|
@@ -280,12 +284,6 @@ This is the production process of traditional 2D animation. We will list these r
 <img src="assets/sakuga.png">
 
 
-## Others
-
-| **Model/Paper**                                   | **Authors/Team**                          | **Links**                                                                                          | **Venue** |
-|---------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------|-----------|
-| [**Globally Optimal Toon Tracking**](https://ttwong12.github.io/papers/toontrack/toontrack.pdf) | Haichao Zhu, Xueting Liu, Tien-Tsin Wong, Pheng-Ann Heng | [Supplementary](https://ttwong12.github.io/papers/toontrack/supp.pdf) [Results Video](https://ttwong12.github.io/papers/toontrack/result.mp4) [Project Page](https://ttwong12.github.io/papers/toontrack/toontrack.html) |           |
-| [**Stereoscopizing Cel Animations**](https://ttwong12.github.io/papers/3dcel/3dcel.pdf)          | Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong | [Project Page](https://ttwong12.github.io/papers/3dcel/3dcel.html)                               |           |
 
 
 
