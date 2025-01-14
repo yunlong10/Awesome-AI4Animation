@@ -61,7 +61,7 @@
       </ul>
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <img src="assets/pipeline.png" alt="Pipeline" width="400">
+      <img src="assets/pipeline.png" alt="Pipeline" width="500">
       <p>This is the production process of traditional 2D animation. We will list these research topics roughly in this sequence.</p>
     </td>
   </tr>
