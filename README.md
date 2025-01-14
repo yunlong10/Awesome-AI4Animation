@@ -862,8 +862,6 @@ This is the production process of traditional 2D animation. We will list these r
 *Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong*\
 [[Project Page]](https://ttwong12.github.io/papers/3dcel/3dcel.html)
 [[Paper]](https://ttwong12.github.io/papers/3dcel/3dcel.pdf)
-<<<<<<< HEAD
 
-## Related Repository
-=======
->>>>>>> 9fdadbc (test merge)
+
+
