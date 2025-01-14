@@ -13,7 +13,6 @@
 
 </h5>
 
-This repository includes research, datasets, and other resources on AI for cel / cel-look / illust-look animation.
 
 <img src="assets/teaser.png">
 
