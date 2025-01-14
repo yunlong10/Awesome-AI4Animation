@@ -70,6 +70,7 @@
 
 
 <img src="assets/production.png">
+<p>A production example showing the transformation of a scene from storyboard to final compositing, demonstrating key stages including layout (L/O), keyframe animation, coloring, and background integration.</p>
 
 ## 🛠️ Methods
 
