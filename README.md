@@ -6,21 +6,29 @@ This repository includes research, datasets, and other resources on AI for cel /
 
 <img src="assets/teaser.png">
 
-## Table of Contents
-- [Awesome Research on AI for Animation](#awesome-research-on-ai-for-animation)
-  - [Table of Contents](#table-of-contents)
-  - [Process of Animation Production](#process-of-animation-production)
-  - [Methods](#methods)
-    - [Storyboarding](#storyboarding)
-    - [Layout](#layout)
-    - [Genga](#genga)
-    - [Inbetweening](#inbetweening)
-    - [Colorization](#colorization)
-    - [Editing](#editing)
-    - [After Record (AR)](#after-record-ar)
-    - [Dubbing (DB)](#dubbing-db)
-  - [Datasets](#datasets)
-  - [Others](#others)
+# 🎬 Awesome Research on AI for Animation
+## 📖 Table of Contents
+- 🎥 [Process of Animation Production](#-process-of-animation-production)
+- 🛠️ [Methods](#%EF%B8%8F-methods)
+  - 📜 [Scripting](#-scripting)
+  - 🎭 [Setting](#-setting)
+  - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
+  - 🗺️ [Layout](#%EF%B8%8F-layout)
+  - 🎞️ [Keyframe Animation](#keyframe-animation)
+  - 🍴 [Inbetweening](#-inbetweening)
+  - 🌈 [Colorization](#-colorization)
+  - 📷 [Compositing & Photography](#-compositing--photography)
+  - ✂️ [Cutting (CT)](#%EF%B8%8F-cutting-ct)
+  - 🎶 [Music & Sound Effects](#-music--sound-effects)
+  - 🎙️ [After Record (AR) & Dubbing (DB)](#%EF%B8%8F-after-record-ar--dubbing-db)
+  - 🎞️ [Cel-Animation Editing](#%EF%B8%8F-cel-animation-editing)
+  - 🎨 [Cels Decomposition](#-cels-decomposition)
+  - 🏯 [3D Assistance](#-3d-assistance)
+- 📊 [Datasets](#-datasets)
+- 🔗 [Others](#others)
+- 📁 [Related Repository](#related-repository)
+
+
 
 
 ## 🎥 Process of Animation Production
@@ -854,3 +862,8 @@ This is the production process of traditional 2D animation. We will list these r
 *Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong*\
 [[Project Page]](https://ttwong12.github.io/papers/3dcel/3dcel.html)
 [[Paper]](https://ttwong12.github.io/papers/3dcel/3dcel.pdf)
+<<<<<<< HEAD
+
+## Related Repository
+=======
+>>>>>>> 9fdadbc (test merge)
