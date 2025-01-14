@@ -34,7 +34,7 @@
             </li>
             <li>2️⃣ <a href="#production">Production</a>
               <ul>
-                <li>🗺️ <a href="#%EF%B8%8F-layout">Layout (L/O)</a></li>
+                <li>🗺️ <a href="#%EF%B8%8F-layout-lo">Layout (L/O)</a></li>
                 <li>🎞️ <a href="#%EF%B8%8F-keyframe-animation">Keyframe Animation</a></li>
                 <li>🍴 <a href="#-inbetweening">Inbetweening</a></li>
                 <li>🌈 <a href="#-colorization">Colorization</a></li>
