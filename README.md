@@ -16,35 +16,59 @@
 
 <img src="assets/teaser.png">
 
-# 🎬 Awesome Research on AI for Animation
-## 📖 Table of Contents
-- 🎥 [Process of Animation Production](#-process-of-animation-production)
-- 🛠️ [Methods](#%EF%B8%8F-methods)
-  - 1️⃣ [Pre-production](#pre-production)
-    - 📜 [Scripting](#-scripting)
-    - 🎭 [Setting](#-setting)
-    - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
-  - 2️⃣ [Production](#production)
-    - 🗺️ [Layout](#%EF%B8%8F-layout)
-    - 🎞️ [Keyframe Animation](#keyframe-animation)
-    - 🍴 [Inbetweening](#-inbetweening)
-    - 🌈 [Colorization](#-colorization)
-  - 3️⃣ [Post-production](#post-production)
-    - 📷 [Compositing & Photography](#-compositing--photography)
-    - ✂️ [Cutting (CT)](#%EF%B8%8F-cutting-ct)
-    - 🎶 [Music & Sound Effects](#-music--sound-effects)
-    - 🎙️ [After Record (AR) & Dubbing (DB)](#%EF%B8%8F-after-record-ar--dubbing-db)
-  - 🔗 [Others](#others)
-    - 🎞️ [Cel-Animation Editing](#%EF%B8%8F-cel-animation-editing)
-    - 🎨 [Cels Decomposition](#-cels-decomposition)
-    - 🏯 [3D Assistance](#-3d-assistance)
-- 📊 [Datasets](#-datasets)
+## 📖 Table of Contents and Pipeline
+
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <ul>
+        <li>🎥 <a href="#-process-of-animation-production">Process of Animation Production</a></li>
+        <li>🛠️ <a href="#%EF%B8%8F-methods">Methods</a>
+          <ul>
+            <li>1️⃣ <a href="#pre-production">Pre-production</a>
+              <ul>
+                <li>📜 <a href="#-scripting">Scripting</a></li>
+                <li>🎭 <a href="#-setting">Setting</a></li>
+                <li>🖌️ <a href="#%EF%B8%8F-storyboarding">Storyboarding</a></li>
+              </ul>
+            </li>
+            <li>2️⃣ <a href="#production">Production</a>
+              <ul>
+                <li>🗺️ <a href="#%EF%B8%8F-layout">Layout</a></li>
+                <li>🎞️ <a href="#keyframe-animation">Keyframe Animation</a></li>
+                <li>🍴 <a href="#-inbetweening">Inbetweening</a></li>
+                <li>🌈 <a href="#-colorization">Colorization</a></li>
+              </ul>
+            </li>
+            <li>3️⃣ <a href="#post-production">Post-production</a>
+              <ul>
+                <li>📷 <a href="#-compositing--photography">Compositing & Photography</a></li>
+                <li>✂️ <a href="#%EF%B8%8F-cutting-ct">Cutting (CT)</a></li>
+                <li>🎶 <a href="#-music--sound-effects">Music & Sound Effects</a></li>
+                <li>🎙️ <a href="#%EF%B8%8F-after-record-ar--dubbing-db">After Record (AR) & Dubbing (DB)</a></li>
+              </ul>
+            </li>
+            <li>🔗 <a href="#others">Others</a>
+              <ul>
+                <li>🎞️ <a href="#%EF%B8%8F-cel-animation-editing">Cel-Animation Editing</a></li>
+                <li>🎨 <a href="#-cels-decomposition">Cels Decomposition</a></li>
+                <li>🏯 <a href="#-3d-assistance">3D Assistance</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>📊 <a href="#-datasets">Datasets</a></li>
+      </ul>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <img src="assets/pipeline.png" alt="Pipeline" width="400">
+      <p>This is the production process of traditional 2D animation. We will list these research topics roughly in this sequence.</p>
+    </td>
+  </tr>
+</table>
 
 
 
-## 🎥 Process of Animation Production
-This is the production process of traditional 2D animation. We will list these research topics roughly in this sequence.
-<img src="assets/pipeline.png">
 <img src="assets/production.png">
 
 ## 🛠️ Methods
