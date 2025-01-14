@@ -20,7 +20,7 @@
 ## 📖 Table of Contents
 - 🎥 [Process of Animation Production](#-process-of-animation-production)
 - 🛠️ [Methods](#%EF%B8%8F-methods)
-  - 1️⃣ [Pre-production](#%EF%B8%8F-pre-production)
+  - 1️⃣ [Pre-production](#pre-production)
     - 📜 [Scripting](#-scripting)
     - 🎭 [Setting](#-setting)
     - 🖌️ [Storyboarding](#%EF%B8%8F-storyboarding)
