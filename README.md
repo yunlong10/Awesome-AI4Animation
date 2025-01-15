@@ -316,5 +316,17 @@
 <center><p>From: <i>Sakuga-42M Dataset: Scaling Up Cartoon Research</i></p><center>
 
 
+## Citation
+```bibtex
+@article{tang2025ai4anime,
+     title={Generative AI for Cel-Animation: A Survey},
+     author={Tang, Yunlong and Guo, Junjia and Liu, Pinxin and Wang, Zhiyuan and Hua, Hang and Zhong, Jia-Xing and Xiao, Yunzhong and Huang, Chao and Song, Luchuan and Liang, Susan and Song, Yizhi and He, Liu and Bi, Jing and Feng, Mingqian and Li, Xinyang and Zhang, Zeliang and Xu, Chenliang},
+     journal={arXiv preprint arXiv:2501.06250},
+     url={https://arxiv.org/abs/2501.06250},
+     year={2025}
+}
+```
+
+
 
 
