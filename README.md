@@ -214,6 +214,7 @@ If you find our survey useful, please cite the following paper:
 | [**Automatic Temporally Coherent Video Colorization**](https://arxiv.org/abs/1904.09527)          | Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi | [Code](https://github.com/Harry-Thasarathan/TCVC) | arXiv 2019   |
 | [**Toona**](https://toona.io/)                                                                  | Toona Team                                                                                         |                                                                                                     |              |
 | [**LayerAnimate Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
+| [**MangaNinja: Line Art Colorization with Precise Reference Following**](https://arxiv.org/abs/2501.08332) | Zhiheng Liu, Ka Leong Cheng, Xi Chen, Jie Xiao, Hao Ouyang, Kai Zhu, Yu Liu, Yujun Shen, Qifeng Chen, Ping Luo | [Project Page](https://johanan528.github.io/MangaNinjia/) [Code](https://github.com/ali-vilab/MangaNinjia) |   |
 
 
 <img src="assets/paintbucket-charactor.png">
