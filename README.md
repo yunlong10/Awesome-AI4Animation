@@ -14,8 +14,6 @@
 </h5>
 
 
-
-
 ## 📖 Table of Contents
 
 <table>
@@ -71,6 +69,18 @@
 
 <img src="assets/production.png">
 <p>A production example showing the transformation of a scene from storyboard to final compositing, demonstrating key stages including layout (L/O), keyframe animation, coloring, and background integration.</p>
+
+## Citation
+If you find our survey useful, please cite the following paper:
+```bibtex
+@article{tang2025ai4anime,
+     title={Generative AI for Cel-Animation: A Survey},
+     author={Tang, Yunlong and Guo, Junjia and Liu, Pinxin and Wang, Zhiyuan and Hua, Hang and Zhong, Jia-Xing and Xiao, Yunzhong and Huang, Chao and Song, Luchuan and Liang, Susan and Song, Yizhi and He, Liu and Bi, Jing and Feng, Mingqian and Li, Xinyang and Zhang, Zeliang and Xu, Chenliang},
+     journal={arXiv preprint arXiv:2501.06250},
+     url={https://arxiv.org/abs/2501.06250},
+     year={2025}
+}
+```
 
 ## 🛠️ Methods
 
@@ -162,6 +172,9 @@
 | [**Deep Sketch-Guided Cartoon Video Inbetweening**](https://arxiv.org/abs/2008.04149)            | Xiaoyu Li, Bo Zhang, Jing Liao, Pedro V. Sander                                                    | | arXiv 2020  |
 | [**Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings**](https://ieeexplore.ieee.org/document/8803506) | Rei Narita, Keigo Hirakawa, Kiyoharu Aizawa | | IEEE 2019    |
 | [**DiLight: Digital Light Table – Inbetweening for 2D Animations Using Guidelines**](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300390) | Leonardo Carvalho, Ricardo Marroquim, Emilio Vital Brazil | | Elsevier 2017 |
+| [**Anisora: Exploring the frontiers of animation video generation in the sora era**](https://arxiv.org/pdf/2412.10255) | Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Xinwen Zhang, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun | [Code](https://github.com/bilibili/Index-anisora) |   |
+| [**LayerAnimate Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
+
 
 <table>
     <tr>
@@ -200,6 +213,7 @@
 | [**Deep Line Art Video Colorization with a Few References**](https://arxiv.org/abs/2003.10685)    | Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang | | arXiv 2020   |
 | [**Automatic Temporally Coherent Video Colorization**](https://arxiv.org/abs/1904.09527)          | Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi | [Code](https://github.com/Harry-Thasarathan/TCVC) | arXiv 2019   |
 | [**Toona**](https://toona.io/)                                                                  | Toona Team                                                                                         |                                                                                                     |              |
+| [**LayerAnimate Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
 
 
 <img src="assets/paintbucket-charactor.png">
@@ -223,6 +237,7 @@
 | [**Alchemist: Parametric Control of Material Properties with Diffusion Models**](https://arxiv.org/abs/2312.02970) | Prafull Sharma, Varun Jampani, Yuanzhen Li, Xuhui Jia, Dmitry Lagun, Fredo Durand, William T. Freeman, Mark Matthews | [Project Page](https://www.prafullsharma.net/alchemist/) | CVPR 2024 |
 | [**DisenStudio: Customized Multi-Subject Text-to-Video Generation with Disentangled Spatial Control**](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2024_DisenStudio%20Customized%20Multi-Subject%20Text-to-Video%20Generation%20with%20Disentangled%20Spatial%20Control.pdf) | Hong Chen, Xin Wang, Yipeng Zhang, Yuwei Zhou, Zeyang Zhang, Siao Tang, Wenwu Zhu | [Code](https://github.com/forchchch/disenstudio.github.io?tab=readme-ov-file) | ACMMM 2024 |
 | [**SSN: Soft Shadow Network for Image Compositing**](https://arxiv.org/abs/2007.08211) | Yichen Sheng, Jianming Zhang, Bedrich Benes | [Project Page](https://shengcn.github.io/SSN/) [Code](https://github.com/ShengCN/SSN_SoftShadowNet) | CVPR 2021 |
+| [**LayerAnimate Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
 
 
 
@@ -282,7 +297,8 @@
 |--------------------------------|--------------------------------|----------|----------|
 | [**Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation**](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439) | Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu | [Code](https://lllyasviel.github.io/GitPageToonDecompose/) | ACM 2022     |
 | [**Generative Omnimatte: Learning to Decompose Video into Layers**](https://arxiv.org/abs/2411.16683) | Yao-Chih Lee, Erika Lu, Sarah Rumbley, Michal Geyer, Jia-Bin Huang, Tali Dekel, Forrester Cole | [Project Page](https://gen-omnimatte.github.io/) |              |
-
+| [**LayerAnimate Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
+| [**TransPixar: Advancing Text-to-Video Generation with Transparency**](https://arxiv.org/abs/2501.03006) | Luozhou Wang, Yijun Li, Zhifei Chen, Jui-Hsien Wang, Zhifei Zhang, He Zhang, Zhe Lin, Yingcong Chen | [Project Page](https://wileewang.github.io/TransPixar/) [Code](https://github.com/wileewang/TransPixar) |   |
 
 #### 🏯 3D Assistance
 
@@ -315,18 +331,30 @@
 <img src="assets/sakuga.png">
 <center><p>From: <i>Sakuga-42M Dataset: Scaling Up Cartoon Research</i></p><center>
 
+## 🌟 Star History
 
-## Citation
-```bibtex
-@article{tang2025ai4anime,
-     title={Generative AI for Cel-Animation: A Survey},
-     author={Tang, Yunlong and Guo, Junjia and Liu, Pinxin and Wang, Zhiyuan and Hua, Hang and Zhong, Jia-Xing and Xiao, Yunzhong and Huang, Chao and Song, Luchuan and Liang, Susan and Song, Yizhi and He, Liu and Bi, Jing and Feng, Mingqian and Li, Xinyang and Zhang, Zeliang and Xu, Chenliang},
-     journal={arXiv preprint arXiv:2501.06250},
-     url={https://arxiv.org/abs/2501.06250},
-     year={2025}
-}
-```
+[![Star History Chart](https://api.star-history.com/svg?repos=yunlong10/Awesome-AI4Animation&type=Date)](https://star-history.com/#yunlong10/Awesome-AI4Animation&Date)
 
+## ♥️ Contributors
 
+Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
+
+[Yunlong Tang](https://yunlong10.github.io) @ University of Rochester \
+[Junjia Guo](https://github.com/DouJiangTer) @ University of Rochester \
+[Pinxin Liu](https://andypinxinliu.github.io) @ University of Rochester \
+[Zhiyuan Wang](https://scholar.google.com/citations?user=4TdiRMYAAAAJ&hl=en) @ UCSB \
+[Hang Hua](https://hanghuacs.notion.site/) @ University of Rochester \
+[Jia-Xing Zhong](https://www.cs.ox.ac.uk/people/jiaxing.zhong/) @ University of Oxford \
+[Yunzhong Xiao](https://shawn-yzxiao.github.io/) @ CMU \
+[Chao Huang](https://wikichao.github.io) @ University of Rochester \
+[Luchuan Song](https://songluchuan.github.io) @ University of Rochester \
+[Susan Liang](https://liangsusan-git.github.io) @ University of Rochester \
+[Yizhi Song](https://song630.github.io/yizhisong.github.io/) @ Purdue University \
+[Liu He](https://arking1995.github.io/) @ Purdue University \
+[Jing Bi](https://jing-bi.github.io) @ University of Rochester \
+[Mingqian Feng](https://fmmarkmq.github.io) @ University of Rochester \
+[Xinyang Li](https://www.linkedin.com/in/xinyang-li-44a5a9287/) @ University of Rochester \
+[Zeliang Zhang](https://zhangaipi.github.io) @ University of Rochester \
+[Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html) @ University of Rochester 
 
 
