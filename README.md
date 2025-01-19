@@ -173,7 +173,7 @@ If you find our survey useful, please cite the following paper:
 | [**Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings**](https://ieeexplore.ieee.org/document/8803506) | Rei Narita, Keigo Hirakawa, Kiyoharu Aizawa | | IEEE 2019    |
 | [**DiLight: Digital Light Table – Inbetweening for 2D Animations Using Guidelines**](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300390) | Leonardo Carvalho, Ricardo Marroquim, Emilio Vital Brazil | | Elsevier 2017 |
 | [**Anisora: Exploring the frontiers of animation video generation in the sora era**](https://arxiv.org/pdf/2412.10255) | Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Xinwen Zhang, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun | [Code](https://github.com/bilibili/Index-anisora) |   |
-| [**LayerAnimate: Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
+| [**LayerAnimate: Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzeng Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
 
 
 <table>
@@ -213,7 +213,7 @@ If you find our survey useful, please cite the following paper:
 | [**Deep Line Art Video Colorization with a Few References**](https://arxiv.org/abs/2003.10685)    | Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang | | arXiv 2020   |
 | [**Automatic Temporally Coherent Video Colorization**](https://arxiv.org/abs/1904.09527)          | Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi | [Code](https://github.com/Harry-Thasarathan/TCVC) | arXiv 2019   |
 | [**Toona**](https://toona.io/)                                                                  | Toona Team                                                                                         |                                                                                                     |              |
-| [**LayerAnimate: Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
+| [**LayerAnimate: Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzeng Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
 | [**MangaNinja: Line Art Colorization with Precise Reference Following**](https://arxiv.org/abs/2501.08332) | Zhiheng Liu, Ka Leong Cheng, Xi Chen, Jie Xiao, Hao Ouyang, Kai Zhu, Yu Liu, Yujun Shen, Qifeng Chen, Ping Luo | [Project Page](https://johanan528.github.io/MangaNinjia/) [Code](https://github.com/ali-vilab/MangaNinjia) |   |
 
 
@@ -238,7 +238,7 @@ If you find our survey useful, please cite the following paper:
 | [**Alchemist: Parametric Control of Material Properties with Diffusion Models**](https://arxiv.org/abs/2312.02970) | Prafull Sharma, Varun Jampani, Yuanzhen Li, Xuhui Jia, Dmitry Lagun, Fredo Durand, William T. Freeman, Mark Matthews | [Project Page](https://www.prafullsharma.net/alchemist/) | CVPR 2024 |
 | [**DisenStudio: Customized Multi-Subject Text-to-Video Generation with Disentangled Spatial Control**](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2024_DisenStudio%20Customized%20Multi-Subject%20Text-to-Video%20Generation%20with%20Disentangled%20Spatial%20Control.pdf) | Hong Chen, Xin Wang, Yipeng Zhang, Yuwei Zhou, Zeyang Zhang, Siao Tang, Wenwu Zhu | [Code](https://github.com/forchchch/disenstudio.github.io?tab=readme-ov-file) | ACMMM 2024 |
 | [**SSN: Soft Shadow Network for Image Compositing**](https://arxiv.org/abs/2007.08211) | Yichen Sheng, Jianming Zhang, Bedrich Benes | [Project Page](https://shengcn.github.io/SSN/) [Code](https://github.com/ShengCN/SSN_SoftShadowNet) | CVPR 2021 |
-| [**LayerAnimate: Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
+| [**LayerAnimate: Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzeng Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
 
 
 
@@ -298,7 +298,7 @@ If you find our survey useful, please cite the following paper:
 |--------------------------------|--------------------------------|----------|----------|
 | [**Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation**](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439) | Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu | [Code](https://lllyasviel.github.io/GitPageToonDecompose/) | ACM 2022     |
 | [**Generative Omnimatte: Learning to Decompose Video into Layers**](https://arxiv.org/abs/2411.16683) | Yao-Chih Lee, Erika Lu, Sarah Rumbley, Michal Geyer, Jia-Bin Huang, Tali Dekel, Forrester Cole | [Project Page](https://gen-omnimatte.github.io/) |              |
-| [**LayerAnimate: Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
+| [**LayerAnimate: Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzeng Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
 | [**TransPixar: Advancing Text-to-Video Generation with Transparency**](https://arxiv.org/abs/2501.03006) | Luozhou Wang, Yijun Li, Zhifei Chen, Jui-Hsien Wang, Zhifei Zhang, He Zhang, Zhe Lin, Yingcong Chen | [Project Page](https://wileewang.github.io/TransPixar/) [Code](https://github.com/wileewang/TransPixar) |   |
 
 #### 🏯 3D Assistance
