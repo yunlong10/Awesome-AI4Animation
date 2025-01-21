@@ -156,6 +156,7 @@ If you find our survey useful, please cite the following paper:
 | [**Animate-X: Universal Character Image Animation with Enhanced Motion Representation**](https://arxiv.org/abs/2410.10306) | Shuai Tan, Biao Gong, Xiang Wang, Shiwei Zhang, Dandan Zheng, Ruobing Zheng, Kecheng Zheng, Jingdong Chen, Ming Yang | [Code](https://github.com/antgroup/animate-x) |              |
 | [**MikuDance: Animating Character Art with Mixed Motion Dynamics**](https://arxiv.org/abs/2411.08656) | Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu | [Project Page](https://kebii.github.io/MikuDance/) [Code](https://github.com/Kebii/MikuDance) |              |
 | [**Collaborative Neural Rendering using Anime Character Sheets**](https://arxiv.org/abs/2207.05378) | Zuzeng Lin, Ailin Huang, Zhewei Huang | [Code](https://github.com/megvii-research/IJCAI2023-CoNR) [Dataset](https://github.com/P2Oileen/CoNR_Dataset) | IJCAI 2023   |
+| [**Textoon: Generating Vivid 2D Cartoon Characters from Text Descriptions**](https://arxiv.org/pdf/2501.10020) | Chao He, Jianqiang Ren, Liefeng Bo | [Project Page](https://human3daigc.github.io/Textoon_webpage/) [Code](https://github.com/Human3DAIGC/Textoon) |   |
 
 
 #### 🍴 Inbetweening
