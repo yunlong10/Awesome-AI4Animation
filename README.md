@@ -175,6 +175,7 @@ If you find our survey useful, please cite the following paper:
 | [**DiLight: Digital Light Table – Inbetweening for 2D Animations Using Guidelines**](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300390) | Leonardo Carvalho, Ricardo Marroquim, Emilio Vital Brazil | | Elsevier 2017 |
 | [**Anisora: Exploring the frontiers of animation video generation in the sora era**](https://arxiv.org/pdf/2412.10255) | Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Xinwen Zhang, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun | [Code](https://github.com/bilibili/Index-anisora) |   |
 | [**LayerAnimate: Layer-specific Control for Animation**](https://arxiv.org/abs/2501.08295) | Yuxue Yang, Lue Fan, Zuzeng Lin, Feng Wang, Zhaoxiang Zhang | [Project Page](https://layeranimate.github.io/) [Code](https://github.com/IamCreateAI/LayerAnimate) |   |
+| [**Framer: Interactive Frame Interpolation**](https://arxiv.org/abs/2410.18978) | Wen Wang, Qiuyu Wang, Kecheng Zheng, Hao Ouyang, Zhekai Chen, Biao Gong, Hao Chen, Yujun Shen, Chunhua Shen | [Project Page](https://aim-uofa.github.io/Framer/) [Code](https://github.com/aim-uofa/Framer) [Demo](https://huggingface.co/spaces/wwen1997/Framer)|   |
 
 
 <table>
