@@ -157,6 +157,7 @@ If you find our survey useful, please cite the following paper:
 | [**MikuDance: Animating Character Art with Mixed Motion Dynamics**](https://arxiv.org/abs/2411.08656) | Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu | [Project Page](https://kebii.github.io/MikuDance/) [Code](https://github.com/Kebii/MikuDance) |              |
 | [**Collaborative Neural Rendering using Anime Character Sheets**](https://arxiv.org/abs/2207.05378) | Zuzeng Lin, Ailin Huang, Zhewei Huang | [Code](https://github.com/megvii-research/IJCAI2023-CoNR) [Dataset](https://github.com/P2Oileen/CoNR_Dataset) | IJCAI 2023   |
 | [**Textoon: Generating Vivid 2D Cartoon Characters from Text Descriptions**](https://arxiv.org/pdf/2501.10020) | Chao He, Jianqiang Ren, Liefeng Bo | [Project Page](https://human3daigc.github.io/Textoon_webpage/) [Code](https://github.com/Human3DAIGC/Textoon) |   |
+| [**AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction**](https://arxiv.org/abs/2504.01014) | Junhao Cheng, Yuying Ge, Yixiao Ge, Jing Liao, Ying Shan | [Project Page](https://howe125.github.io/AnimeGamer.github.io/) [Code](https://github.com/TencentARC/AnimeGamer) |   |
 
 
 #### 🍴 Inbetweening
