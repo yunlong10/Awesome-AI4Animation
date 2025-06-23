@@ -291,7 +291,7 @@ If you find our survey useful, please cite the following paper:
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
 | [**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production**](https://arxiv.org/abs/2401.03499) | Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer | | TBA 2024     |
-| [**Scaling Concept With Text-Guided Diffusion Models**](https://arxiv.org/abs/2410.24151)        | Chao Huang, Susan Liang, Yunlong Tang, Yapeng Tian, Anurag Kumar, Chenliang Xu                      | [Project Page](https://wikichao.github.io/ScalingConcept/) [Code](https://github.com/WikiChao/ScalingConcept) |              |
+| [**Scaling Concept With Text-Guided Diffusion Models**](https://arxiv.org/abs/2410.24151)        | Chao Huang, Susan Liang, Yunlong Tang, Yapeng Tian, Anurag Kumar, Chenliang Xu                      | [Project Page](https://wikichao.github.io/ScalingConcept/) [Code](https://github.com/WikiChao/ScalingConcept) | ICLR 2025|
 
 
 
