@@ -70,6 +70,10 @@
 <img src="assets/production.png">
 <p>A production example showing the transformation of a scene from storyboard to final compositing, demonstrating key stages including layout (L/O), keyframe animation, coloring, and background integration.</p>
 
+## News
+- [07/17/2025] Our survey has been accepted by the AISTORY Workshop @ ICCV 2025.
+- [01/08/2025] We release our survey.
+
 ## Citation
 If you find our survey useful, please cite the following paper:
 ```bibtex
