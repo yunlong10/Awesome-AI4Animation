@@ -1,6 +1,6 @@
 # Awesome Gen AI for Animation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### 🔥🔥🔥 [Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)
+### 🔥🔥🔥 [[ICCV 2025 AISTORY Workshop] Generative AI for Cel-Animation: A Survey](https://arxiv.org/abs/2501.06250)
 
 > *[Yunlong Tang](https://yunlong10.github.io/)<sup>1</sup>, [Junjia Guo](https://www.linkedin.com/in/junjia-guo-b3a9b5336/)<sup>1</sup>, [Pinxin Liu](https://andypinxinliu.github.io/)<sup>1</sup>, [Zhiyuan Wang](https://scholar.google.com/citations?user=4TdiRMYAAAAJ)<sup>2</sup>, [Hang Hua](https://hanghuacs.notion.site/)<sup>1</sup>, [Jia-Xing Zhong](https://www.cs.ox.ac.uk/people/jiaxing.zhong/)<sup>3</sup>, [Yunzhong Xiao](https://shawn-yzxiao.github.io/)<sup>4</sup>, [Chao Huang](https://wikichao.github.io/)<sup>1</sup>, [Luchuan Song](https://songluchuan.github.io/)<sup>1</sup>, [Susan Liang](https://liangsusan-git.github.io/)<sup>1</sup>, [Yizhi Song](https://song630.github.io/yizhisong.github.io/)<sup>5</sup>, [Liu He](https://arking1995.github.io/)<sup>5</sup>, [Jing Bi](https://jing-bi.github.io/)<sup>1</sup>, [Mingqian Feng](https://fmmarkmq.github.io/)<sup>1</sup>, [Xinyang Li](https://www.linkedin.com/in/xinyang-li-44a5a9287/)<sup>1</sup>, [Zeliang Zhang](https://zhangaipi.github.io/)<sup>1</sup>, [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/index.html)<sup>1</sup>*  
 
