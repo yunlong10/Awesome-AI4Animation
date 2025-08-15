@@ -168,6 +168,7 @@ If you find our survey useful, please cite the following paper:
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
+| [**ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing**](https://arxiv.org/abs/2508.10881) | | [Project](https://lg-li.github.io/project/tooncomposer/) | |
 | [**ToonCrafter: Generative Cartoon Interpolation**](https://arxiv.org/abs/2405.17933)            | Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong            | [Code](https://github.com/ToonCrafter/ToonCrafter) [Project](https://doubiiu.github.io/projects/ToonCrafter/) | arXiv 2024    |
 | [**Joint Stroke Tracing and Correspondence for 2D Animation**](https://dl.acm.org/doi/10.1145/3649890) | Haoran Mo, Chengying Gao, Ruomei Wang | [Project](https://markmohr.github.io/JoSTC/) [Code](https://github.com/MarkMoHR/JoSTC) | SIGGRAPH 2024 |
 | [**Deep Geometrized Cartoon Line Inbetweening**](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy | [Demo](https://www.youtube.com/watch?v=iUF-LsqFKpI&feature=youtu.be) [Code](https://github.com/lisiyao21/AnimeInbet) [Dataset](https://drive.google.com/file/d/1SNRGajIECxNwRp6ZJ0IlY7AEl2mRm2DR/view) | ICCV 2023     |
@@ -202,6 +203,7 @@ If you find our survey useful, please cite the following paper:
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
+| [**ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing**](https://arxiv.org/abs/2508.10881) | | [Project](https://lg-li.github.io/project/tooncomposer/) | |
 | [**Learning Inclusion Matching for Animation Paint Bucket Colorization**](https://arxiv.org/abs/2403.18342) | Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy | [Project](https://ykdai.github.io/projects/InclusionMatching) [Demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai) [Code](https://github.com/ykdai/BasicPBC) [Dataset](https://github.com/ykdai/BasicPBC/tree/main/dataset) | CVPR 2024     |
 | [**AniDoc: Animation Creation Made Easier**](https://arxiv.org/pdf/2412.14173)                   | Yihao Meng, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu | [Project](https://yihao-meng.github.io/AniDoc_demo/) [Code](https://github.com/yihao-meng/AniDoc) | arXiv 2024   |
 | [**ToonCrafter: Generative Cartoon Interpolation**](https://arxiv.org/abs/2405.17933)            | Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong | [Project](https://doubiiu.github.io/projects/ToonCrafter/) [Code](https://github.com/Doubiiu/ToonCrafter) | TOG 2024     |
@@ -233,6 +235,7 @@ If you find our survey useful, please cite the following paper:
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
 |--------------------------------|--------------------------------|----------|----------|
+| [**ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing**](https://arxiv.org/abs/2508.10881) | | [Project](https://lg-li.github.io/project/tooncomposer/) | |
 | [**Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport**](https://openreview.net/forum?id=u1cQYxRI1H) | | |              |
 | [**DoveNet: Deep Image Harmonization via Domain Verification**](https://arxiv.org/abs/1911.13239) | Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang | [Code](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) [Demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) [Dataset(Baidu Cloud(access code: kqz3))](https://pan.baidu.com/s/1xEN0Xrv_MbuKT0ZqsipeEg) [Dataset(OneDrive)](https://1drv.ms/f/s!AohNSvvkuxZmgTHOraRzo5-X3nMp?e=bQQKkR) | CVPR 2020 |
 | [**High-Resolution Image Harmonization via Collaborative Dual Transformations**](https://arxiv.org/abs/2109.06671) | Wenyan Cong, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, Liqing Zhang | [Code](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization) | CVPR 2022     |
