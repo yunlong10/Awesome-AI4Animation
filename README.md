@@ -164,6 +164,9 @@ If you find our survey useful, please cite the following paper:
 | [**AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction**](https://arxiv.org/abs/2504.01014) | Junhao Cheng, Yuying Ge, Yixiao Ge, Jing Liao, Ying Shan | [Project Page](https://howe125.github.io/AnimeGamer.github.io/) [Code](https://github.com/TencentARC/AnimeGamer) |   |
 
 
+<img src="assets/tooncomposer.png">
+<center><p>From: <i>ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing</i></p><center>
+
 #### 🍴 Inbetweening
 
 | **Model/Paper** | **Authors/Team** | **Links** | **Venue** |
