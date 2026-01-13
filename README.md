@@ -9,7 +9,7 @@
 
 <h5 align="center">  
 
- **[Paper](https://arxiv.org/abs/2501.06250)** | **[Project Page](https://github.com/yunlong10/Awesome-AI4Animation)**
+ **[ICCV](https://openaccess.thecvf.com/content/ICCV2025W/AISTORY/html/Tang_Generative_AI_for_Cel-Animation_A_Survey_ICCVW_2025_paper.html) | [arXiv](https://arxiv.org/abs/2501.06250)** | **[Project Page](https://github.com/yunlong10/Awesome-AI4Animation)**
 
 </h5>
 
